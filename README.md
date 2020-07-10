@@ -5,6 +5,7 @@
 
 ## About
 First of all, I uninstalled League of Legends yesterday due to some stress playing the game. If you play, you probably understand what I'm talking about.
+
 Trying to become more confortable on showing data, I created this project scrapping data from League of Legends matches history on their own website. After, I used my finished ranked games as an ADC to achieve the results on the dashboard created. Having more than 200 games this season, the results made it clear to me what were the problems.
 
 * [**league_preprocessing.ipynb**](https://github.com/MatheusMAssis/League-of-Legends-Analysis/blob/master/league_preprocessing.ipynb) is the file where I created the main csv file. I used Beautiful Soup to read my html file with all the games I wanted displayed on the page.
