@@ -4,7 +4,7 @@
 ![Final Dashboard](img/dashboard.png)
 
 ## Medium Story about the creation of this project
-[**Medium**](#)
+* [**Medium**](#)
 
 ## About
 First of all, I uninstalled League of Legends yesterday due to some stress playing the game. If you play, you probably understand what I'm talking about.
