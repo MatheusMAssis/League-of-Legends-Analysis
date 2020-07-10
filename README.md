@@ -11,6 +11,13 @@ Trying to become more confortable on showing data, I created this project scrapp
 * [**league_preprocessing.ipynb**](https://github.com/MatheusMAssis/League-of-Legends-Analysis/blob/master/league_preprocessing.ipynb) is the file where I created the main csv file. I used Beautiful Soup to read my html file with all the games I wanted displayed on the page.
 * [**league_analysis.ipynb**](https://github.com/MatheusMAssis/League-of-Legends-Analysis/blob/master/league_analysis.ipynb) is the file where I generated the results that are displayed on my dashboard. Also, it's the main file for understanding my approach to achieve results using this database.
 
+## Conclusions
+My stress came through an excessive streak of losses when I couldn't do anything in the game. That happened mostly because I was unable to maintain my farm at high levels as the months passed by. If you don't know about League of Legends, farm is the main way to earn gold throughout the match. Also, as an ADC, I need to have items to become strong and carry the game, so I need to earn as much gold as I can.
+
+One important thing to notice is that I went from Bronze to Gold, so that can justify my loss of farm and wins in the early months. In addition, I was playing a lot more than usual, and that probably made me perform bad due to excess of playing.
+
+For the champions analysis, I chose my Top 3 picks and made their own analysis. I still love Aphelios, even though I'm not that good with him... Maybe that's another reason for my bad performance.
+
 ## Built With
 
 * [Python](https://www.python.org/) - Programming Language used.
