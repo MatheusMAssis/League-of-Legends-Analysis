@@ -3,6 +3,9 @@
 ### Dashboard Results
 ![Final Dashboard](img/dashboard.png)
 
+## Medium Story about the creation of this project
+[**Medium**](#)
+
 ## About
 First of all, I uninstalled League of Legends yesterday due to some stress playing the game. If you play, you probably understand what I'm talking about.
 
@@ -19,7 +22,6 @@ One important thing to notice is that I went from Bronze to Gold, so that can ju
 For the champions analysis, I chose my Top 3 picks and made their own analysis. I still love Aphelios, even though I'm not that good with him... Maybe that's another reason for my bad performance.
 
 ## Built With
-
 * [Python](https://www.python.org/) - Programming Language used.
 * [Jupyter Notebook](https://jupyter.org/) - IDE used.
 * [League of Legends Match History](https://matchhistory.eune.leagueoflegends.com/en/#match-history/BR1/2067186412415168) - Data Base used. 
@@ -27,15 +29,12 @@ For the champions analysis, I chose my Top 3 picks and made their own analysis. 
 * [Canva](https://www.canva.com/) - Platform to create the dashboard.
 
 ## Authors
-
 * **Matheus Assis** - [GitHub](https://github.com/MatheusMAssis)
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Thanks
-
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Thanks for visiting my GitHub! <3
