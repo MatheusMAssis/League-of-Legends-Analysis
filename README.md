@@ -1,2 +1,3 @@
 # League-of-Legends-Analysis
-(Python)
+
+![Final Dashboard](img/dashboard.png)
