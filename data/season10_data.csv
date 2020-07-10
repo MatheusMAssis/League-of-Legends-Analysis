@@ -1,0 +1,818 @@
+,match_date,match_map,match_mode,match_duration,match_result,champ_name,champ_kills,champ_deaths,champ_assists,champ_farm,champ_gold,champ_level,champ_first_spell,champ_second_spell
+0,2020-07-09,Summoner's Rift,Normal (Draft Mode),36.58333333333332,defeat,Miss Fortune,7,10,9,164,12200,15,SummonerHeal,SummonerFlash
+1,2020-07-09,Howling Abyss,,31.066666666666663,victory,Miss Fortune,20,9,33,172,22100,18,SummonerHeal,SummonerFlash
+2,2020-07-09,Summoner's Rift,Ranked (Draft Mode),36.06666666666666,victory,Xayah,12,4,4,269,17400,16,SummonerHeal,SummonerFlash
+3,2020-07-08,Summoner's Rift,Normal (Draft Mode),30.53333333333333,defeat,Miss Fortune,6,6,7,188,11000,13,SummonerHeal,SummonerFlash
+4,2020-07-08,Summoner's Rift,Normal (Draft Mode),3.333333333333333,earlysurrender,Xayah,0,0,1,16,1200,3,SummonerHeal,SummonerFlash
+5,2020-07-08,Summoner's Rift,Normal (Draft Mode),40.18333333333332,victory,Miss Fortune,14,7,8,263,18000,17,SummonerHeal,SummonerFlash
+6,2020-07-08,Summoner's Rift,Normal (Draft Mode),43.68333333333332,victory,Miss Fortune,25,7,5,314,24300,18,SummonerHeal,SummonerFlash
+7,2020-07-07,Summoner's Rift,Normal (Draft Mode),31.2,defeat,Malphite,9,10,6,160,12000,15,SummonerTeleport,SummonerFlash
+8,2020-07-07,Summoner's Rift,Normal (Draft Mode),32.9,defeat,Caitlyn,1,10,9,161,9600,15,SummonerHeal,SummonerFlash
+9,2020-07-07,Summoner's Rift,Normal (Draft Mode),35.5,victory,Miss Fortune,15,3,6,261,16700,17,SummonerBoost,SummonerFlash
+10,2020-07-07,Summoner's Rift,Normal (Draft Mode),3.6666666666666665,earlysurrender,Senna,0,1,1,0,995,2,SummonerBoost,SummonerFlash
+11,2020-07-05,Summoner's Rift,Normal (Draft Mode),33.68333333333333,defeat,Miss Fortune,18,9,13,345,21400,18,SummonerHeal,SummonerFlash
+12,2020-07-05,Summoner's Rift,Normal (Draft Mode),31.25,defeat,Miss Fortune,6,4,8,207,11500,14,SummonerHeal,SummonerFlash
+13,2020-07-05,Summoner's Rift,Normal (Draft Mode),28.383333333333333,victory,Miss Fortune,13,6,8,166,12800,14,SummonerHeal,SummonerFlash
+14,2020-07-04,Summoner's Rift,Ranked (Draft Mode),34.95,victory,Caitlyn,12,5,9,180,15100,16,SummonerHeal,SummonerFlash
+15,2020-07-04,Summoner's Rift,Ranked (Draft Mode),41.033333333333324,defeat,Aphelios,7,9,10,228,14200,16,SummonerHeal,SummonerFlash
+16,2020-07-03,Summoner's Rift,Ranked (Draft Mode),27.8,defeat,Caitlyn,4,7,15,128,9200,13,SummonerHeal,SummonerFlash
+17,2020-07-03,Summoner's Rift,Ranked (Draft Mode),35.45,victory,Xayah,8,5,7,260,15100,16,SummonerHeal,SummonerFlash
+18,2020-07-03,Summoner's Rift,Ranked (Draft Mode),25.633333333333333,victory,Miss Fortune,9,2,10,155,12300,13,SummonerHeal,SummonerFlash
+19,2020-07-02,Summoner's Rift,Ranked (Draft Mode),36.83333333333332,defeat,Caitlyn,11,9,13,185,13800,14,SummonerHeal,SummonerFlash
+20,2020-07-02,Summoner's Rift,Ranked (Draft Mode),37.06666666666666,defeat,Xayah,7,7,12,228,13400,15,SummonerHeal,SummonerFlash
+21,2020-07-02,Summoner's Rift,Ranked (Draft Mode),3.3666666666666663,earlysurrender,Caitlyn,0,0,0,14,929,2,SummonerHeal,SummonerFlash
+22,2020-07-02,Summoner's Rift,Ranked (Draft Mode),21.566666666666663,victory,Ashe,2,1,4,154,7300,10,SummonerHeal,SummonerFlash
+23,2020-07-02,Summoner's Rift,Ranked (Draft Mode),31.616666666666664,defeat,Thresh,3,8,18,37,8800,13,SummonerExhaust,SummonerFlash
+24,2020-07-02,Summoner's Rift,Ranked (Draft Mode),24.26666666666666,victory,Ezreal,4,3,5,118,7700,12,SummonerHeal,SummonerFlash
+25,2020-07-02,Summoner's Rift,Ranked (Draft Mode),19.18333333333333,defeat,Xayah,0,2,2,90,4800,9,SummonerHeal,SummonerFlash
+26,2020-07-02,Summoner's Rift,Ranked (Draft Mode),31.55,victory,Miss Fortune,12,6,14,208,15400,16,SummonerHeal,SummonerFlash
+27,2020-07-02,Summoner's Rift,Ranked (Draft Mode),24.15,victory,Thresh,2,3,4,37,6900,12,SummonerDot,SummonerFlash
+28,2020-07-02,Summoner's Rift,Ranked (Draft Mode),24.26666666666666,defeat,Miss Fortune,10,7,8,130,9800,12,SummonerHeal,SummonerFlash
+29,2020-07-01,Summoner's Rift,Ranked (Draft Mode),42.5,victory,Xayah,10,9,12,273,18300,18,SummonerHeal,SummonerFlash
+30,2020-07-01,Summoner's Rift,Ranked (Draft Mode),30.45,defeat,Xayah,1,2,5,199,9500,13,SummonerHeal,SummonerFlash
+31,2020-07-01,Summoner's Rift,Normal (Draft Mode),20.85,victory,Veigar,2,1,3,148,7000,12,SummonerTeleport,SummonerFlash
+32,2020-07-01,Summoner's Rift,Normal (Draft Mode),26.5,defeat,Xerath,1,5,4,121,6800,13,SummonerBarrier,SummonerFlash
+33,2020-07-01,Summoner's Rift,Normal (Draft Mode),34.2,victory,Veigar,6,6,13,172,12200,16,SummonerTeleport,SummonerFlash
+34,2020-07-01,Howling Abyss,Custom,27.11666666666666,victory,Zed,8,14,17,51,15600,18,SummonerDot,SummonerFlash
+35,2020-06-30,Summoner's Rift,Ranked (Draft Mode),23.93333333333333,defeat,Miss Fortune,3,7,7,128,8400,12,SummonerHeal,SummonerFlash
+36,2020-06-30,Summoner's Rift,Ranked (Draft Mode),29.65,victory,Ezreal,4,4,2,137,9700,13,SummonerHeal,SummonerFlash
+37,2020-06-30,Summoner's Rift,Ranked (Draft Mode),27.8,victory,Ashe,10,5,12,119,10800,13,SummonerHeal,SummonerFlash
+38,2020-06-30,Summoner's Rift,Ranked (Draft Mode),30.23333333333333,victory,Miss Fortune,5,2,8,192,11500,14,SummonerHeal,SummonerFlash
+39,2020-06-30,Summoner's Rift,Ranked (Draft Mode),46.38333333333332,victory,Xayah,8,3,10,338,18600,18,SummonerHeal,SummonerFlash
+40,2020-06-29,Summoner's Rift,Ranked (Draft Mode),37.033333333333324,defeat,Xayah,6,7,6,221,13100,15,SummonerHeal,SummonerFlash
+41,2020-06-28,Summoner's Rift,Ranked (Draft Mode),40.133333333333326,defeat,Xayah,13,5,12,327,18300,18,SummonerHeal,SummonerFlash
+42,2020-06-28,Summoner's Rift,Ranked (Draft Mode),29.9,victory,Xayah,13,5,13,227,15700,15,SummonerHeal,SummonerFlash
+43,2020-06-28,Summoner's Rift,Ranked (Draft Mode),25.883333333333333,victory,Caitlyn,3,2,8,159,9200,12,SummonerHeal,SummonerFlash
+44,2020-06-27,Summoner's Rift,Ranked (Draft Mode),25.4,victory,Ezreal,3,5,8,137,8400,12,SummonerHeal,SummonerFlash
+45,2020-06-27,Summoner's Rift,Ranked (Draft Mode),36.86666666666666,victory,Thresh,7,8,23,43,12500,16,SummonerDot,SummonerFlash
+46,2020-06-27,Summoner's Rift,Ranked (Draft Mode),25.45,victory,Thresh,7,9,17,28,8800,13,SummonerDot,SummonerFlash
+47,2020-06-27,Summoner's Rift,Ranked (Draft Mode),32.95,defeat,Caitlyn,6,5,4,205,11400,14,SummonerHeal,SummonerFlash
+48,2020-06-26,Summoner's Rift,Ranked (Draft Mode),30.16666666666666,victory,Aphelios,5,3,8,191,12000,14,SummonerHeal,SummonerFlash
+49,2020-06-26,Howling Abyss,,16.8,defeat,Leona,0,9,11,13,8000,14,SummonerSnowball,SummonerFlash
+50,2020-06-25,Howling Abyss,,21.066666666666663,defeat,Fiddlesticks,9,10,18,52,12900,17,SummonerSnowball,SummonerFlash
+51,2020-06-25,Howling Abyss,,14.883333333333331,defeat,Pyke,12,6,9,19,11800,15,SummonerBoost,SummonerFlash
+52,2020-06-25,Summoner's Rift,Normal (Draft Mode),42.4,defeat,Ashe,10,12,13,212,16400,17,SummonerHeal,SummonerFlash
+53,2020-06-24,Summoner's Rift,Normal (Draft Mode),42.533333333333324,defeat,Thresh,1,11,12,48,9400,16,SummonerDot,SummonerFlash
+54,2020-06-24,Summoner's Rift,Normal (Draft Mode),36.916666666666664,defeat,Senna,3,8,19,50,9700,16,SummonerExhaust,SummonerFlash
+55,2020-06-24,Summoner's Rift,Normal (Draft Mode),34.516666666666666,victory,Xayah,4,9,8,201,12100,16,SummonerHeal,SummonerFlash
+56,2020-06-24,Summoner's Rift,Normal (Draft Mode),36.18333333333332,victory,Ezreal,4,6,14,192,12700,15,SummonerHeal,SummonerFlash
+57,2020-06-22,Summoner's Rift,Ranked (Draft Mode),28.41666666666666,defeat,Ashe,3,9,5,142,9100,13,SummonerHeal,SummonerFlash
+58,2020-06-22,Summoner's Rift,Ranked (Draft Mode),24.31666666666666,victory,Ashe,4,1,8,135,9600,13,SummonerHeal,SummonerFlash
+59,2020-06-20,Summoner's Rift,,40.73333333333333,defeat,Syndra,7,7,7,214,14100,16,SummonerBarrier,SummonerFlash
+60,2020-06-20,Summoner's Rift,,31.066666666666663,defeat,Ashe,1,3,4,230,9700,13,SummonerHeal,SummonerFlash
+61,2020-06-20,Summoner's Rift,Ranked (Draft Mode),15.866666666666665,defeat,Aphelios,0,4,3,106,4600,8,SummonerHeal,SummonerFlash
+62,2020-06-20,Summoner's Rift,Ranked (Draft Mode),21.68333333333333,victory,Xayah,4,0,3,173,8500,12,SummonerHeal,SummonerFlash
+63,2020-06-20,Summoner's Rift,Ranked (Draft Mode),25.05,defeat,Xayah,2,5,3,147,7400,12,SummonerHeal,SummonerFlash
+64,2020-06-20,Summoner's Rift,Normal (Draft Mode),47.783333333333324,defeat,Thresh,0,12,20,57,11300,17,SummonerExhaust,SummonerFlash
+65,2020-06-20,Summoner's Rift,Normal (Draft Mode),18.65,victory,Blitzcrank,0,2,5,35,4300,10,SummonerExhaust,SummonerFlash
+66,2020-06-20,Summoner's Rift,Normal (Draft Mode),35.45,victory,Ashe,12,7,11,259,17700,17,SummonerHeal,SummonerFlash
+67,2020-06-19,Summoner's Rift,Normal (Draft Mode),30.68333333333333,victory,Ashe,10,4,14,215,14800,17,SummonerHeal,SummonerFlash
+68,2020-06-19,Summoner's Rift,Ranked (Draft Mode),33.61666666666666,defeat,Miss Fortune,10,8,10,213,14800,15,SummonerHeal,SummonerFlash
+69,2020-06-19,Summoner's Rift,Ranked (Draft Mode),33.5,defeat,Ashe,1,8,8,212,10200,15,SummonerHeal,SummonerFlash
+70,2020-06-19,Summoner's Rift,Ranked (Draft Mode),25.133333333333333,defeat,Syndra,8,8,5,129,10200,13,SummonerTeleport,SummonerFlash
+71,2020-06-19,Summoner's Rift,Normal (Draft Mode),37.633333333333326,victory,Ashe,2,4,14,269,13400,17,SummonerHeal,SummonerFlash
+72,2020-06-19,Summoner's Rift,Ranked (Draft Mode),22.45,defeat,Aphelios,1,3,4,135,6800,11,SummonerHeal,SummonerFlash
+73,2020-06-19,Summoner's Rift,Ranked (Draft Mode),34.03333333333333,victory,Miss Fortune,3,6,10,226,12800,16,SummonerHeal,SummonerFlash
+74,2020-06-19,Summoner's Rift,Ranked (Draft Mode),26.766666666666662,defeat,Caitlyn,6,3,5,153,9500,12,SummonerHeal,SummonerFlash
+75,2020-06-18,Summoner's Rift,Normal (Draft Mode),34.25,victory,Ashe,12,6,23,207,16100,16,SummonerHeal,SummonerFlash
+76,2020-06-18,Summoner's Rift,Normal (Draft Mode),27.53333333333333,defeat,Xayah,8,4,4,181,10400,13,SummonerHeal,SummonerFlash
+77,2020-06-18,Summoner's Rift,Normal (Draft Mode),23.96666666666666,victory,Aphelios,5,2,6,183,9800,13,SummonerHeal,SummonerFlash
+78,2020-06-17,Summoner's Rift,Ranked (Draft Mode),24.85,defeat,Caitlyn,0,7,4,144,6500,11,SummonerHeal,SummonerFlash
+79,2020-06-16,Summoner's Rift,Ranked (Draft Mode),45.6,defeat,Varus,4,4,13,281,16600,18,SummonerHeal,SummonerFlash
+80,2020-06-16,Summoner's Rift,Ranked (Draft Mode),26.0,defeat,Miss Fortune,3,6,10,184,9500,13,SummonerHeal,SummonerFlash
+81,2020-06-16,Summoner's Rift,Ranked (Draft Mode),21.95,victory,Miss Fortune,8,2,7,169,10600,12,SummonerHeal,SummonerFlash
+82,2020-06-15,Summoner's Rift,Normal (Draft Mode),36.2,victory,Varus,8,8,16,192,14400,17,SummonerHeal,SummonerFlash
+83,2020-06-15,Summoner's Rift,Ranked (Draft Mode),24.7,defeat,Aphelios,0,7,2,155,6900,10,SummonerHeal,SummonerFlash
+84,2020-06-14,Summoner's Rift,Ranked (Draft Mode),29.48333333333333,victory,Miss Fortune,8,3,7,209,12200,14,SummonerHeal,SummonerFlash
+85,2020-06-14,Summoner's Rift,Ranked (Draft Mode),26.216666666666658,victory,Miss Fortune,7,1,3,182,11000,13,SummonerHeal,SummonerFlash
+86,2020-06-14,Summoner's Rift,,14.566666666666666,victory,Xayah,17,12,15,84,15800,14,SummonerExhaust,SummonerFlash
+87,2020-06-14,Summoner's Rift,,18.083333333333332,victory,Kai'Sa,17,11,9,87,16900,16,SummonerBoost,SummonerFlash
+88,2020-06-14,Summoner's Rift,,18.35,defeat,Vayne,10,13,8,102,15400,19,SummonerExhaust,SummonerFlash
+89,2020-06-12,Summoner's Rift,Normal (Draft Mode),32.75,defeat,Ezreal,3,6,10,180,11000,15,SummonerHeal,SummonerFlash
+90,2020-06-12,Summoner's Rift,Normal (Draft Mode),33.516666666666666,defeat,Ezreal,2,6,7,208,10400,15,SummonerHeal,SummonerFlash
+91,2020-06-12,Summoner's Rift,Normal (Draft Mode),15.783333333333331,victory,Kai'Sa,4,1,6,99,6300,10,SummonerHeal,SummonerFlash
+92,2020-06-12,Summoner's Rift,Ranked (Draft Mode),30.95,defeat,Heimerdinger,2,8,7,163,8800,14,SummonerTeleport,SummonerFlash
+93,2020-06-11,Summoner's Rift,Ranked (Draft Mode),35.6,defeat,Ezreal,7,7,8,198,12100,15,SummonerHeal,SummonerFlash
+94,2020-06-11,Summoner's Rift,Ranked (Draft Mode),23.43333333333333,defeat,Aphelios,4,7,7,132,7500,11,SummonerHeal,SummonerFlash
+95,2020-06-11,Summoner's Rift,Ranked (Draft Mode),21.883333333333333,defeat,Miss Fortune,2,6,4,137,7100,12,SummonerHeal,SummonerFlash
+96,2020-06-11,Summoner's Rift,Ranked (Draft Mode),21.083333333333332,defeat,Xayah,1,8,3,99,6200,10,SummonerHeal,SummonerFlash
+97,2020-06-11,Summoner's Rift,Normal (Draft Mode),20.18333333333333,defeat,Miss Fortune,3,3,4,127,6900,11,SummonerHeal,SummonerFlash
+98,2020-06-10,Summoner's Rift,Normal (Draft Mode),40.65,defeat,Veigar,11,11,6,227,16100,17,SummonerBarrier,SummonerFlash
+99,2020-06-10,Summoner's Rift,Normal (Draft Mode),15.516666666666666,defeat,Nautilus,1,4,2,21,3600,7,SummonerDot,SummonerFlash
+100,2020-06-10,Summoner's Rift,Normal (Draft Mode),48.15,defeat,Miss Fortune,10,6,16,365,20800,18,SummonerHeal,SummonerFlash
+101,2020-06-10,Summoner's Rift,Normal (Draft Mode),38.33333333333332,defeat,Miss Fortune,10,7,7,277,15500,17,SummonerHeal,SummonerFlash
+102,2020-06-10,Summoner's Rift,Normal (Draft Mode),24.816666666666663,victory,Thresh,0,2,8,29,5800,11,SummonerDot,SummonerFlash
+103,2020-06-10,Summoner's Rift,Normal (Draft Mode),34.166666666666664,defeat,Miss Fortune,11,5,9,236,15000,15,SummonerHeal,SummonerFlash
+104,2020-06-10,Summoner's Rift,Normal (Draft Mode),37.65,defeat,Caitlyn,5,8,10,210,13600,16,SummonerHeal,SummonerFlash
+105,2020-06-10,Summoner's Rift,Normal (Draft Mode),32.06666666666666,defeat,Syndra,3,8,6,145,8800,13,SummonerTeleport,SummonerFlash
+106,2020-06-10,Summoner's Rift,Ranked (Draft Mode),27.53333333333333,victory,Caitlyn,4,3,13,199,10800,14,SummonerHeal,SummonerFlash
+107,2020-06-10,Summoner's Rift,Ranked (Draft Mode),34.03333333333333,victory,Miss Fortune,5,4,12,231,13600,16,SummonerHeal,SummonerFlash
+108,2020-06-09,Summoner's Rift,Ranked (Draft Mode),32.31666666666666,victory,Miss Fortune,12,2,5,246,15300,16,SummonerHeal,SummonerFlash
+109,2020-06-09,Summoner's Rift,Ranked (Draft Mode),31.133333333333333,defeat,Caitlyn,10,8,6,200,13500,14,SummonerHeal,SummonerFlash
+110,2020-06-09,Summoner's Rift,Ranked (Draft Mode),27.73333333333333,victory,Xayah,7,8,7,127,10300,13,SummonerHeal,SummonerFlash
+111,2020-06-09,Summoner's Rift,Normal (Draft Mode),16.666666666666664,defeat,Miss Fortune,1,3,1,105,4700,9,SummonerHeal,SummonerFlash
+112,2020-06-09,Summoner's Rift,,17.066666666666666,defeat,Thresh,3,12,8,75,11000,14,SummonerBoost,SummonerFlash
+113,2020-06-09,Summoner's Rift,Ranked (Draft Mode),23.35,defeat,Caitlyn,4,5,1,120,7000,11,SummonerHeal,SummonerFlash
+114,2020-06-09,Summoner's Rift,Normal (Draft Mode),51.3,victory,Jinx,12,10,16,297,20800,18,SummonerFlash,SummonerHeal
+115,2020-06-09,Summoner's Rift,Custom,12.716666666666665,victory,Caitlyn,0,0,0,28,54300,18,SummonerHeal,SummonerFlash
+116,2020-06-09,Summoner's Rift,Normal (Draft Mode),26.133333333333333,defeat,Miss Fortune,3,6,5,183,9100,13,SummonerFlash,SummonerHeal
+117,2020-06-08,Summoner's Rift,Normal (Draft Mode),28.866666666666664,victory,Miss Fortune,21,1,3,237,17000,16,SummonerHeal,SummonerFlash
+118,2020-06-08,Summoner's Rift,Normal (Draft Mode),39.71666666666666,defeat,Miss Fortune,16,8,8,294,19200,17,SummonerHeal,SummonerFlash
+119,2020-06-08,Summoner's Rift,Normal (Draft Mode),27.6,defeat,Miss Fortune,4,5,3,178,9600,11,SummonerHeal,SummonerFlash
+120,2020-06-08,Summoner's Rift,Normal (Draft Mode),20.25,defeat,Xayah,1,4,1,117,5500,10,SummonerHeal,SummonerFlash
+121,2020-06-08,Summoner's Rift,Normal (Draft Mode),36.58333333333332,defeat,Varus,8,10,9,213,14600,15,SummonerHeal,SummonerFlash
+122,2020-06-08,Summoner's Rift,Normal (Draft Mode),16.43333333333333,victory,Varus,3,1,5,112,6700,9,SummonerHeal,SummonerFlash
+123,2020-06-08,Summoner's Rift,Normal (Draft Mode),28.45,victory,Varus,7,7,13,170,11300,14,SummonerHeal,SummonerFlash
+124,2020-06-08,Summoner's Rift,Normal (Draft Mode),40.05,victory,Lucian,5,11,10,194,13500,17,SummonerTeleport,SummonerFlash
+125,2020-06-08,Summoner's Rift,Normal (Draft Mode),30.066666666666663,defeat,Xayah,5,5,11,173,11100,13,SummonerHeal,SummonerFlash
+126,2020-06-08,Summoner's Rift,Ranked (Draft Mode),39.166666666666664,victory,Caitlyn,10,3,6,247,16500,17,SummonerHeal,SummonerFlash
+127,2020-06-07,Summoner's Rift,Normal (Draft Mode),24.633333333333333,victory,Aphelios,3,6,9,142,8800,12,SummonerHeal,SummonerFlash
+128,2020-06-07,Howling Abyss,,10.283333333333331,victory,Varus,11,5,18,34,8700,12,SummonerHeal,SummonerFlash
+129,2020-06-07,Howling Abyss,,23.26666666666666,victory,Irelia,9,15,33,65,14700,18,SummonerSnowball,SummonerFlash
+130,2020-06-07,Howling Abyss,,20.73333333333333,victory,Gnar,13,11,18,46,14000,18,SummonerSnowball,SummonerFlash
+131,2020-06-07,Summoner's Rift,Normal (Draft Mode),30.7,victory,Syndra,4,10,16,130,10500,15,SummonerTeleport,SummonerFlash
+132,2020-06-07,Summoner's Rift,Normal (Draft Mode),32.06666666666666,victory,Caitlyn,10,5,15,186,13100,15,SummonerHeal,SummonerFlash
+133,2020-06-07,Summoner's Rift,Normal (Draft Mode),42.033333333333324,defeat,Ezreal,7,9,5,210,15500,17,SummonerHeal,SummonerFlash
+134,2020-06-07,Summoner's Rift,Normal (Draft Mode),37.36666666666666,defeat,Syndra,13,8,11,221,16500,17,SummonerTeleport,SummonerFlash
+135,2020-06-07,Summoner's Rift,Normal (Draft Mode),23.833333333333332,victory,Miss Fortune,12,2,4,168,12700,14,SummonerHeal,SummonerFlash
+136,2020-06-07,Summoner's Rift,Normal (Draft Mode),27.45,victory,Xayah,7,3,13,184,11600,14,SummonerHeal,SummonerFlash
+137,2020-06-07,Summoner's Rift,Ranked (Draft Mode),27.15,defeat,Caitlyn,5,7,1,145,8900,13,SummonerHeal,SummonerFlash
+138,2020-06-06,Summoner's Rift,Normal (Draft Mode),38.08333333333332,defeat,Caitlyn,11,3,6,312,18600,18,SummonerHeal,SummonerFlash
+139,2020-06-06,Summoner's Rift,Normal (Draft Mode),38.46666666666666,victory,Xayah,12,4,5,362,17900,18,SummonerHeal,SummonerFlash
+140,2020-06-06,Summoner's Rift,Normal (Draft Mode),33.58333333333333,victory,Caitlyn,2,2,5,237,12800,15,SummonerHeal,SummonerFlash
+141,2020-06-06,Summoner's Rift,,20.616666666666664,victory,Lucian,2,12,11,120,14400,19,SummonerExhaust,SummonerFlash
+142,2020-06-06,Summoner's Rift,Normal (Draft Mode),48.9,defeat,Aphelios,9,10,5,376,20600,18,SummonerHeal,SummonerFlash
+143,2020-06-06,Summoner's Rift,Normal (Draft Mode),41.55,defeat,Ashe,6,5,10,257,15200,17,SummonerHeal,SummonerFlash
+144,2020-06-05,Summoner's Rift,Normal (Draft Mode),40.383333333333326,victory,Caitlyn,7,10,20,236,14900,17,SummonerHeal,SummonerFlash
+145,2020-06-05,Summoner's Rift,,23.016666666666662,defeat,Ezreal,18,13,21,141,22500,22,SummonerExhaust,SummonerFlash
+146,2020-06-04,Summoner's Rift,,14.35,victory,Lux,5,4,21,64,12800,14,SummonerBoost,SummonerFlash
+147,2020-06-04,Summoner's Rift,,22.866666666666664,victory,Sivir,17,11,9,161,21300,22,SummonerExhaust,SummonerFlash
+148,2020-06-04,Summoner's Rift,Normal (Draft Mode),31.78333333333333,victory,Heimerdinger,2,6,3,165,9400,16,SummonerTeleport,SummonerFlash
+149,2020-06-03,Summoner's Rift,Normal (Draft Mode),41.71666666666666,defeat,Caitlyn,7,9,7,204,14200,17,SummonerHeal,SummonerFlash
+150,2020-06-03,Summoner's Rift,Normal (Draft Mode),3.333333333333333,earlysurrender,Caitlyn,1,0,0,16,1500,2,SummonerHeal,SummonerFlash
+151,2020-06-03,Summoner's Rift,Normal (Draft Mode),29.0,victory,Varus,5,3,7,186,11200,13,SummonerHeal,SummonerFlash
+152,2020-06-02,Summoner's Rift,Normal (Draft Mode),28.65,victory,Varus,3,1,6,199,9500,13,SummonerHeal,SummonerFlash
+153,2020-06-02,Summoner's Rift,Normal (Draft Mode),34.15,victory,Ashe,9,9,17,180,13400,15,SummonerHeal,SummonerFlash
+154,2020-06-02,Summoner's Rift,Normal (Draft Mode),30.583333333333332,victory,Ezreal,4,1,7,183,10800,14,SummonerHeal,SummonerFlash
+155,2020-06-02,Summoner's Rift,Normal (Draft Mode),31.65,victory,Caitlyn,6,5,14,171,11900,14,SummonerHeal,SummonerFlash
+156,2020-06-02,Summoner's Rift,Normal (Draft Mode),39.2,defeat,Ashe,12,7,10,251,16600,17,SummonerHeal,SummonerFlash
+157,2020-06-02,Summoner's Rift,,18.71666666666666,victory,Ezreal,21,6,11,171,20700,18,SummonerBoost,SummonerFlash
+158,2020-06-01,Summoner's Rift,Ranked (Draft Mode),36.86666666666666,defeat,Lucian,7,7,14,245,14600,18,SummonerHeal,SummonerFlash
+159,2020-06-01,Summoner's Rift,Ranked (Draft Mode),23.93333333333333,victory,Caitlyn,8,2,10,135,9900,12,SummonerHeal,SummonerFlash
+160,2020-05-31,Summoner's Rift,,30.9,defeat,Caitlyn,0,8,4,168,8100,14,SummonerHeal,SummonerFlash
+161,2020-05-31,Summoner's Rift,,31.46666666666666,defeat,Caitlyn,5,3,4,230,12300,15,SummonerHeal,SummonerFlash
+162,2020-05-31,Summoner's Rift,Normal (Draft Mode),25.566666666666663,victory,Caitlyn,4,1,2,198,9500,13,SummonerHeal,SummonerFlash
+163,2020-05-30,Summoner's Rift,,30.18333333333333,victory,Miss Fortune,4,3,9,198,11800,14,SummonerHeal,SummonerFlash
+164,2020-05-30,Summoner's Rift,,31.0,victory,Miss Fortune,8,4,10,161,11900,14,SummonerHeal,SummonerFlash
+165,2020-05-30,Summoner's Rift,,24.616666666666664,defeat,Aphelios,0,3,5,143,6500,12,SummonerHeal,SummonerFlash
+166,2020-05-30,Summoner's Rift,Normal (Draft Mode),39.3,victory,Lucian,6,5,14,194,14800,17,SummonerHeal,SummonerFlash
+167,2020-05-30,Summoner's Rift,Normal (Draft Mode),23.583333333333332,victory,Caitlyn,4,4,8,151,9300,12,SummonerHeal,SummonerFlash
+168,2020-05-30,Summoner's Rift,Normal (Draft Mode),26.566666666666663,defeat,Miss Fortune,2,7,3,196,8900,13,SummonerHeal,SummonerFlash
+169,2020-05-30,Summoner's Rift,Normal (Draft Mode),25.53333333333333,victory,Lucian,10,3,10,147,11400,12,SummonerHeal,SummonerFlash
+170,2020-05-29,Summoner's Rift,Normal (Draft Mode),36.08333333333332,victory,Caitlyn,6,9,11,230,14300,15,SummonerHeal,SummonerFlash
+171,2020-05-29,Summoner's Rift,Custom,18.16666666666666,victory,Lucian,3,1,4,133,7200,10,SummonerHeal,SummonerFlash
+172,2020-05-29,Summoner's Rift,Custom,19.75,victory,Caitlyn,5,1,3,153,8600,11,SummonerHeal,SummonerFlash
+173,2020-05-29,Summoner's Rift,Normal (Draft Mode),15.266666666666666,victory,Morgana,0,1,7,9,4000,8,SummonerDot,SummonerFlash
+174,2020-05-29,Summoner's Rift,Normal (Draft Mode),30.333333333333332,defeat,Aphelios,4,8,7,183,10800,14,SummonerHeal,SummonerFlash
+175,2020-05-29,Summoner's Rift,Normal (Draft Mode),33.0,defeat,Miss Fortune,6,8,9,196,12000,15,SummonerHeal,SummonerFlash
+176,2020-05-29,Summoner's Rift,Normal (Draft Mode),36.96666666666666,victory,Caitlyn,11,4,10,229,15100,17,SummonerHeal,SummonerFlash
+177,2020-05-28,Summoner's Rift,Custom,38.48333333333333,defeat,Caitlyn,4,5,7,237,12700,16,SummonerHeal,SummonerFlash
+178,2020-05-28,Summoner's Rift,Normal (Draft Mode),27.31666666666666,victory,Aphelios,7,6,13,154,10800,14,SummonerBarrier,SummonerFlash
+179,2020-05-28,Summoner's Rift,Normal (Draft Mode),24.55,victory,Miss Fortune,2,3,10,149,8800,13,SummonerHeal,SummonerFlash
+180,2020-05-28,Summoner's Rift,Normal (Draft Mode),22.05,defeat,Caitlyn,3,6,3,131,7000,10,SummonerExhaust,SummonerFlash
+181,2020-05-28,Summoner's Rift,Normal (Draft Mode),29.9,victory,Caitlyn,10,4,10,199,14500,16,SummonerHeal,SummonerFlash
+182,2020-05-28,Summoner's Rift,Normal (Draft Mode),31.5,victory,Miss Fortune,7,3,2,249,12700,15,SummonerHeal,SummonerFlash
+183,2020-05-27,Summoner's Rift,Custom,30.68333333333333,defeat,Xayah,1,10,8,164,8500,13,SummonerHeal,SummonerFlash
+184,2020-05-27,Summoner's Rift,Custom,25.25,victory,Miss Fortune,6,4,13,162,10200,12,SummonerHeal,SummonerFlash
+185,2020-05-27,Summoner's Rift,Normal (Draft Mode),12.83333333333333,victory,Ezreal,9,0,8,58,7000,7,SummonerHeal,SummonerFlash
+186,2020-05-27,Summoner's Rift,Normal (Draft Mode),26.883333333333333,victory,Miss Fortune,5,4,17,154,10700,14,SummonerHeal,SummonerFlash
+187,2020-05-27,Summoner's Rift,Normal (Draft Mode),40.46666666666666,victory,Xayah,6,6,22,240,15300,17,SummonerHeal,SummonerFlash
+188,2020-05-27,Summoner's Rift,Normal (Draft Mode),32.71666666666666,victory,Miss Fortune,13,9,11,206,15000,16,SummonerHeal,SummonerFlash
+189,2020-05-27,Summoner's Rift,Normal (Draft Mode),29.41666666666666,defeat,Caitlyn,1,6,4,171,8400,13,SummonerHeal,SummonerFlash
+190,2020-05-27,Summoner's Rift,Normal (Draft Mode),31.133333333333333,victory,Miss Fortune,7,4,11,185,12600,15,SummonerHeal,SummonerFlash
+191,2020-05-26,Summoner's Rift,,18.133333333333333,defeat,Lucian,9,12,13,101,15300,17,SummonerExhaust,SummonerFlash
+192,2020-05-26,Summoner's Rift,,15.15,defeat,Ezreal,12,9,10,108,15500,13,SummonerExhaust,SummonerFlash
+193,2020-05-26,Summoner's Rift,,16.93333333333333,defeat,Tristana,11,14,4,87,15300,15,SummonerExhaust,SummonerFlash
+194,2020-05-26,Summoner's Rift,,16.85,defeat,Karma,9,13,15,82,13300,15,SummonerHaste,SummonerHeal
+195,2020-05-26,Summoner's Rift,,21.96666666666666,defeat,Ezreal,21,13,29,120,22500,18,SummonerExhaust,SummonerFlash
+196,2020-05-26,Summoner's Rift,Normal (Draft Mode),27.833333333333332,victory,Ezreal,2,6,1,157,8400,12,SummonerTeleport,SummonerFlash
+197,2020-05-26,Summoner's Rift,Normal (Draft Mode),24.18333333333333,victory,Caitlyn,4,4,8,123,8300,12,SummonerHeal,SummonerFlash
+198,2020-05-26,Summoner's Rift,Normal (Draft Mode),24.15,defeat,Ezreal,8,8,4,84,9300,12,SummonerHeal,SummonerFlash
+199,2020-05-26,Summoner's Rift,Normal (Draft Mode),33.6,victory,Miss Fortune,15,2,10,268,17400,17,SummonerHeal,SummonerFlash
+200,2020-05-24,Summoner's Rift,Normal (Draft Mode),19.083333333333332,victory,Miss Fortune,5,1,4,132,8100,11,SummonerHeal,SummonerFlash
+201,2020-05-23,Summoner's Rift,,19.333333333333332,victory,Miss Fortune,21,5,10,167,20500,17,SummonerExhaust,SummonerFlash
+202,2020-05-20,Summoner's Rift,,22.883333333333333,victory,Ezreal,11,8,6,169,19200,19,SummonerExhaust,SummonerFlash
+203,2020-05-20,Summoner's Rift,,18.7,defeat,Miss Fortune,7,11,4,108,14700,16,SummonerExhaust,SummonerFlash
+204,2020-05-19,Summoner's Rift,,28.31666666666666,victory,Xayah,8,11,9,259,23700,24,SummonerExhaust,SummonerFlash
+205,2020-05-19,Summoner's Rift,,12.03333333333333,victory,Miss Fortune,12,5,9,60,12600,11,SummonerExhaust,SummonerFlash
+206,2020-05-19,Summoner's Rift,,19.0,victory,Aphelios,17,8,11,145,19900,19,SummonerExhaust,SummonerFlash
+207,2020-05-19,Summoner's Rift,,15.6,victory,Aphelios,26,3,8,168,21200,15,SummonerExhaust,SummonerFlash
+208,2020-05-19,Summoner's Rift,,16.95,victory,Miss Fortune,14,6,10,105,17000,16,SummonerExhaust,SummonerFlash
+209,2020-05-18,Summoner's Rift,,15.966666666666665,victory,Lucian,10,8,8,140,15600,16,SummonerExhaust,SummonerFlash
+210,2020-05-17,Summoner's Rift,,21.16666666666666,defeat,Vayne,3,17,18,58,12900,17,SummonerExhaust,SummonerFlash
+211,2020-05-17,Summoner's Rift,,23.583333333333332,defeat,Lucian,10,9,11,184,21300,21,SummonerExhaust,SummonerFlash
+212,2020-05-17,Summoner's Rift,,16.716666666666665,defeat,Kai'Sa,5,9,7,117,13300,14,SummonerExhaust,SummonerFlash
+213,2020-05-17,Summoner's Rift,,13.0,victory,Kai'Sa,10,4,8,86,11400,12,SummonerExhaust,SummonerFlash
+214,2020-05-17,Summoner's Rift,,22.91666666666666,victory,Lucian,29,14,14,125,26300,22,SummonerExhaust,SummonerFlash
+215,2020-05-17,Summoner's Rift,,19.3,defeat,Ezreal,23,8,7,166,24100,19,SummonerExhaust,SummonerFlash
+216,2020-05-17,Summoner's Rift,,23.133333333333333,defeat,Tristana,12,17,7,133,20400,20,SummonerExhaust,SummonerFlash
+217,2020-05-17,Summoner's Rift,,16.083333333333332,victory,Tristana,19,11,12,80,19300,16,SummonerExhaust,SummonerFlash
+218,2020-05-17,Summoner's Rift,,19.46666666666666,victory,Lucian,22,7,4,163,21800,19,SummonerExhaust,SummonerFlash
+219,2020-05-17,Summoner's Rift,,27.65,victory,Ezreal,9,10,19,138,20800,21,SummonerExhaust,SummonerFlash
+220,2020-05-17,Summoner's Rift,,20.516666666666662,defeat,Ezreal,16,9,8,122,19300,16,SummonerExhaust,SummonerFlash
+221,2020-05-16,Summoner's Rift,,24.91666666666666,defeat,Lucian,26,17,12,91,23300,20,SummonerHeal,SummonerFlash
+222,2020-05-15,Summoner's Rift,,25.0,defeat,Ezreal,8,7,7,158,19100,18,SummonerHeal,SummonerFlash
+223,2020-05-12,Summoner's Rift,Ranked (Draft Mode),28.583333333333332,victory,Miss Fortune,19,6,12,178,16100,16,SummonerHeal,SummonerFlash
+224,2020-05-12,Summoner's Rift,Ranked (Draft Mode),30.95,victory,Jinx,8,3,14,173,12200,15,SummonerHeal,SummonerFlash
+225,2020-05-12,Summoner's Rift,Ranked (Draft Mode),26.85,victory,Miss Fortune,11,0,6,239,13500,14,SummonerHeal,SummonerFlash
+226,2020-05-12,Howling Abyss,Custom,18.23333333333333,victory,Morgana,5,5,28,56,11800,18,SummonerMana,SummonerFlash
+227,2020-05-11,Summoner's Rift,Custom,29.616666666666664,victory,Garen,15,4,9,147,13900,14,SummonerDot,SummonerFlash
+228,2020-05-11,Howling Abyss,Custom,13.3,victory,Ezreal,18,3,6,35,10700,15,SummonerHeal,SummonerFlash
+229,2020-05-10,Summoner's Rift,,34.95,defeat,Xayah,3,10,8,203,11400,15,SummonerHeal,SummonerFlash
+230,2020-05-10,Summoner's Rift,,22.133333333333333,victory,Caitlyn,6,1,1,140,8200,11,SummonerHeal,SummonerFlash
+231,2020-05-10,Summoner's Rift,,40.81666666666666,victory,Xayah,7,5,9,220,13900,16,SummonerHeal,SummonerFlash
+232,2020-05-09,Summoner's Rift,,24.75,defeat,Aphelios,4,9,7,113,7700,11,SummonerHeal,SummonerFlash
+233,2020-05-09,Summoner's Rift,,45.01666666666666,defeat,Caitlyn,6,10,8,288,15700,18,SummonerHeal,SummonerFlash
+234,2020-05-09,Summoner's Rift,,23.15,victory,Caitlyn,6,2,9,129,9100,11,SummonerHeal,SummonerFlash
+235,2020-05-09,Summoner's Rift,Normal (Draft Mode),30.03333333333333,victory,Miss Fortune,8,7,12,209,11500,14,SummonerHeal,SummonerFlash
+236,2020-05-09,Howling Abyss,,15.316666666666666,victory,Morgana,11,1,34,34,11100,16,SummonerMana,SummonerFlash
+237,2020-05-09,Summoner's Rift,Normal (Draft Mode),30.91666666666666,victory,Ezreal,3,6,10,161,11200,15,SummonerHeal,SummonerFlash
+238,2020-05-09,Summoner's Rift,Normal (Draft Mode),3.333333333333333,earlysurrender,Miss Fortune,0,0,0,14,975,2,SummonerHeal,SummonerFlash
+239,2020-05-08,Summoner's Rift,,27.66666666666666,defeat,Syndra,3,8,4,158,8600,13,SummonerTeleport,SummonerFlash
+240,2020-05-07,Summoner's Rift,,32.516666666666666,defeat,Jhin,1,10,10,164,9300,14,SummonerHeal,SummonerFlash
+241,2020-05-07,Summoner's Rift,Normal (Draft Mode),22.68333333333333,victory,Miss Fortune,0,3,2,188,7900,12,SummonerHeal,SummonerFlash
+242,2020-05-07,Summoner's Rift,Normal (Draft Mode),26.9,victory,Aphelios,1,2,11,184,9300,13,SummonerHeal,SummonerFlash
+243,2020-05-04,Summoner's Rift,Ranked (Draft Mode),25.43333333333333,defeat,Caitlyn,1,2,4,174,7900,12,SummonerHeal,SummonerFlash
+244,2020-05-04,Summoner's Rift,Ranked (Draft Mode),35.95,victory,Caitlyn,3,7,7,224,13000,16,SummonerHeal,SummonerFlash
+245,2020-05-04,Summoner's Rift,Ranked (Draft Mode),35.6,defeat,Caitlyn,8,9,11,210,12800,15,SummonerHeal,SummonerFlash
+246,2020-05-04,Summoner's Rift,Ranked (Draft Mode),26.9,defeat,Aphelios,2,9,9,128,8400,12,SummonerHeal,SummonerFlash
+247,2020-05-03,Summoner's Rift,Normal (Draft Mode),29.816666666666663,victory,Caitlyn,5,2,4,205,12400,15,SummonerHeal,SummonerFlash
+248,2020-05-03,Summoner's Rift,Normal (Draft Mode),33.666666666666664,defeat,Jinx,5,6,3,193,10400,14,SummonerHeal,SummonerFlash
+249,2020-05-03,Summoner's Rift,Normal (Draft Mode),32.06666666666666,victory,Ezreal,9,5,13,178,13400,15,SummonerHeal,SummonerFlash
+250,2020-05-03,Summoner's Rift,Normal (Draft Mode),24.333333333333332,defeat,Ezreal,6,2,5,165,9200,13,SummonerHeal,SummonerFlash
+251,2020-05-03,Summoner's Rift,Ranked (Draft Mode),20.03333333333333,victory,Aphelios,5,1,5,115,7900,11,SummonerHeal,SummonerFlash
+252,2020-05-03,Summoner's Rift,Ranked (Draft Mode),34.9,defeat,Caitlyn,18,3,7,237,18300,17,SummonerHeal,SummonerFlash
+253,2020-05-03,Summoner's Rift,Ranked (Draft Mode),28.18333333333333,victory,Caitlyn,15,2,9,209,15100,15,SummonerHeal,SummonerFlash
+254,2020-05-03,Summoner's Rift,Normal (Draft Mode),29.95,defeat,Caitlyn,0,3,2,197,8900,13,SummonerHeal,SummonerFlash
+255,2020-05-03,Summoner's Rift,Normal (Draft Mode),24.91666666666666,defeat,Ezreal,1,10,3,100,6000,11,SummonerExhaust,SummonerFlash
+256,2020-05-03,Summoner's Rift,Custom,8.166666666666666,victory,Ezreal,0,0,0,109,155300,18,SummonerHeal,SummonerFlash
+257,2020-05-02,Summoner's Rift,Normal (Draft Mode),36.666666666666664,defeat,Ezreal,17,7,16,189,16300,18,SummonerExhaust,SummonerFlash
+258,2020-05-02,Summoner's Rift,Normal (Draft Mode),20.15,defeat,Twitch,0,5,0,87,4900,9,SummonerSmite,SummonerFlash
+259,2020-05-02,Summoner's Rift,Ranked (Draft Mode),37.73333333333333,defeat,Aphelios,9,10,10,222,14600,15,SummonerHeal,SummonerFlash
+260,2020-05-02,Summoner's Rift,Ranked (Draft Mode),48.83333333333332,defeat,Caitlyn,10,7,11,256,17700,18,SummonerHeal,SummonerFlash
+261,2020-05-02,Summoner's Rift,Ranked (Draft Mode),35.733333333333334,defeat,Aphelios,1,10,12,208,11100,15,SummonerHeal,SummonerFlash
+262,2020-05-02,Summoner's Rift,Ranked (Draft Mode),35.61666666666666,victory,Aphelios,15,3,6,318,18900,18,SummonerHeal,SummonerFlash
+263,2020-05-02,Summoner's Rift,Ranked (Draft Mode),28.85,defeat,Caitlyn,4,5,3,173,9400,12,SummonerHeal,SummonerFlash
+264,2020-05-02,Summoner's Rift,Ranked (Draft Mode),29.75,defeat,Caitlyn,4,5,2,216,10100,14,SummonerHeal,SummonerFlash
+265,2020-05-01,Summoner's Rift,Custom,22.25,defeat,Caitlyn,0,3,1,155,6300,10,SummonerHeal,SummonerFlash
+266,2020-05-01,Summoner's Rift,Custom,29.583333333333332,victory,Aphelios,8,3,9,170,11800,14,SummonerHeal,SummonerFlash
+267,2020-05-01,Summoner's Rift,Normal (Draft Mode),19.75,victory,Caitlyn,5,0,10,107,7800,11,SummonerHeal,SummonerFlash
+268,2020-05-01,Summoner's Rift,Normal (Draft Mode),38.033333333333324,defeat,Jinx,4,11,8,212,13100,16,SummonerHeal,SummonerFlash
+269,2020-05-01,Summoner's Rift,Ranked (Draft Mode),35.36666666666666,victory,Caitlyn,20,5,14,219,17200,17,SummonerHeal,SummonerFlash
+270,2020-05-01,Summoner's Rift,Ranked (Draft Mode),21.66666666666666,defeat,Aphelios,4,4,1,114,6800,11,SummonerHeal,SummonerFlash
+271,2020-05-01,Summoner's Rift,Ranked (Draft Mode),24.6,victory,Caitlyn,13,2,11,167,12400,13,SummonerHeal,SummonerFlash
+272,2020-04-30,Summoner's Rift,Custom,32.016666666666666,defeat,Miss Fortune,4,10,12,181,10700,15,SummonerHeal,SummonerFlash
+273,2020-04-30,Summoner's Rift,Ranked (Draft Mode),26.583333333333332,victory,Caitlyn,3,2,11,150,9700,13,SummonerHeal,SummonerFlash
+274,2020-04-30,Summoner's Rift,Ranked (Draft Mode),30.71666666666666,victory,Aphelios,6,3,10,240,13900,15,SummonerHeal,SummonerFlash
+275,2020-04-30,Summoner's Rift,Ranked (Draft Mode),32.05,victory,Miss Fortune,8,1,7,231,13100,15,SummonerHeal,SummonerFlash
+276,2020-04-30,Summoner's Rift,Normal (Draft Mode),37.416666666666664,victory,Ezreal,19,4,10,251,18400,18,SummonerHeal,SummonerFlash
+277,2020-04-29,Summoner's Rift,Ranked (Draft Mode),35.53333333333333,defeat,Caitlyn,5,6,10,235,12800,16,SummonerHeal,SummonerFlash
+278,2020-04-29,Howling Abyss,,25.833333333333332,defeat,Sivir,7,11,30,142,16700,18,SummonerSnowball,SummonerFlash
+279,2020-04-29,Summoner's Rift,,23.883333333333333,victory,Ezreal,21,1,13,169,13800,13,SummonerHeal,SummonerFlash
+280,2020-04-29,Summoner's Rift,,25.75,victory,Ezreal,26,2,5,180,15700,16,SummonerHeal,SummonerFlash
+281,2020-04-29,Summoner's Rift,Ranked (Draft Mode),29.2,defeat,Caitlyn,11,4,3,169,11700,12,SummonerHeal,SummonerFlash
+282,2020-04-29,Summoner's Rift,Ranked (Draft Mode),32.38333333333333,defeat,Aphelios,2,8,4,173,9500,14,SummonerHeal,SummonerFlash
+283,2020-04-29,Summoner's Rift,Ranked (Draft Mode),26.083333333333332,defeat,Miss Fortune,0,5,5,123,6300,11,SummonerHeal,SummonerFlash
+284,2020-04-29,Summoner's Rift,Normal (Draft Mode),3.3666666666666663,earlysurrender,Caitlyn,0,0,0,12,905,3,SummonerHeal,SummonerFlash
+285,2020-04-29,Summoner's Rift,Normal (Draft Mode),34.45,defeat,Aphelios,10,7,8,221,14200,15,SummonerHeal,SummonerFlash
+286,2020-04-28,Summoner's Rift,Ranked (Draft Mode),31.46666666666666,victory,Caitlyn,5,3,9,181,11300,14,SummonerHeal,SummonerFlash
+287,2020-04-28,Summoner's Rift,Ranked (Draft Mode),28.01666666666666,defeat,Miss Fortune,4,4,3,181,9500,13,SummonerHeal,SummonerFlash
+288,2020-04-28,Summoner's Rift,Ranked (Draft Mode),32.33333333333333,defeat,Caitlyn,3,2,5,190,10600,14,SummonerHeal,SummonerFlash
+289,2020-04-28,Summoner's Rift,Normal (Draft Mode),30.35,defeat,Thresh,1,8,7,43,7300,13,SummonerDot,SummonerFlash
+290,2020-04-28,Summoner's Rift,Normal (Draft Mode),34.88333333333333,defeat,Miss Fortune,8,6,10,152,13100,16,SummonerHeal,SummonerFlash
+291,2020-04-28,Summoner's Rift,Normal (Draft Mode),16.266666666666666,defeat,Thresh,1,2,3,21,3800,8,SummonerDot,SummonerFlash
+292,2020-04-28,Summoner's Rift,Normal (Draft Mode),19.53333333333333,defeat,Miss Fortune,2,3,0,125,6700,10,SummonerHeal,SummonerFlash
+293,2020-04-27,Summoner's Rift,Ranked (Draft Mode),34.43333333333333,victory,Caitlyn,4,2,6,241,13500,16,SummonerHeal,SummonerFlash
+294,2020-04-27,Summoner's Rift,Ranked (Draft Mode),20.1,defeat,Aphelios,1,6,2,97,5300,10,SummonerHeal,SummonerFlash
+295,2020-04-27,Summoner's Rift,Ranked (Draft Mode),21.516666666666662,defeat,Ezreal,2,5,2,118,6200,11,SummonerHeal,SummonerFlash
+296,2020-04-27,Summoner's Rift,Ranked (Draft Mode),32.71666666666666,victory,Caitlyn,11,2,16,205,14800,16,SummonerHeal,SummonerFlash
+297,2020-04-27,Summoner's Rift,Ranked (Draft Mode),46.3,victory,Caitlyn,18,5,16,249,22500,18,SummonerHeal,SummonerFlash
+298,2020-04-27,Summoner's Rift,Normal (Draft Mode),28.583333333333332,defeat,Aphelios,3,5,7,184,10100,15,SummonerHeal,SummonerFlash
+299,2020-04-27,Summoner's Rift,Normal (Draft Mode),32.56666666666666,defeat,Aphelios,5,7,10,201,13000,15,SummonerHeal,SummonerFlash
+300,2020-04-27,Summoner's Rift,Normal (Draft Mode),30.066666666666663,defeat,Caitlyn,1,5,2,193,8900,13,SummonerHeal,SummonerFlash
+301,2020-04-26,Summoner's Rift,Ranked (Draft Mode),53.01666666666666,defeat,Caitlyn,19,11,9,332,23800,18,SummonerHeal,SummonerFlash
+302,2020-04-26,Howling Abyss,Custom,26.28333333333333,victory,Janna,2,6,30,50,14500,18,SummonerMana,SummonerFlash
+303,2020-04-26,Howling Abyss,Custom,19.333333333333332,defeat,Sona,11,8,35,23,12100,18,SummonerMana,SummonerFlash
+304,2020-04-26,Summoner's Rift,Ranked (Draft Mode),27.6,victory,Caitlyn,2,1,4,197,9700,14,SummonerHeal,SummonerFlash
+305,2020-04-26,Summoner's Rift,Ranked (Draft Mode),27.15,victory,Jinx,5,4,8,110,9100,13,SummonerHeal,SummonerFlash
+306,2020-04-26,Summoner's Rift,Ranked (Draft Mode),35.016666666666666,defeat,Caitlyn,7,9,14,177,12500,16,SummonerHeal,SummonerFlash
+307,2020-04-26,Summoner's Rift,Ranked (Draft Mode),3.3666666666666663,earlysurrender,Caitlyn,0,0,0,8,835,2,SummonerHeal,SummonerFlash
+308,2020-04-26,Summoner's Rift,Ranked (Draft Mode),27.1,victory,Aphelios,5,3,7,130,9600,13,SummonerHeal,SummonerFlash
+309,2020-04-26,Summoner's Rift,Ranked (Draft Mode),56.183333333333316,victory,Heimerdinger,6,7,9,325,19600,18,SummonerHeal,SummonerFlash
+310,2020-04-26,Howling Abyss,,19.23333333333333,victory,Akali,10,7,19,44,12300,17,SummonerSnowball,SummonerFlash
+311,2020-04-26,Howling Abyss,,18.71666666666666,victory,Thresh,4,5,30,18,10900,17,SummonerMana,SummonerFlash
+312,2020-04-26,Summoner's Rift,Normal (Draft Mode),3.333333333333333,earlysurrender,Aphelios,0,0,1,8,902,2,SummonerHeal,SummonerFlash
+313,2020-04-26,Summoner's Rift,Normal (Draft Mode),34.08333333333333,victory,Aphelios,2,3,10,216,12000,16,SummonerHeal,SummonerFlash
+314,2020-04-25,Summoner's Rift,Ranked (Draft Mode),26.45,defeat,Miss Fortune,1,6,5,168,8400,12,SummonerHeal,SummonerFlash
+315,2020-04-25,Summoner's Rift,Ranked (Draft Mode),25.16666666666666,victory,Miss Fortune,5,3,7,135,9900,13,SummonerHeal,SummonerFlash
+316,2020-04-25,Summoner's Rift,Ranked (Draft Mode),25.6,defeat,Caitlyn,4,7,6,142,8500,12,SummonerHeal,SummonerFlash
+317,2020-04-25,Howling Abyss,,18.3,defeat,Pyke,10,12,9,26,12200,17,SummonerSnowball,SummonerFlash
+318,2020-04-25,Howling Abyss,,16.166666666666664,defeat,Irelia,14,7,11,101,13000,16,SummonerSnowball,SummonerFlash
+319,2020-04-25,Howling Abyss,,15.25,defeat,Miss Fortune,6,8,11,81,10300,14,SummonerHeal,SummonerFlash
+320,2020-04-25,Howling Abyss,,15.866666666666665,victory,Jinx,12,4,17,61,11200,16,SummonerHeal,SummonerFlash
+321,2020-04-25,Summoner's Rift,Normal (Draft Mode),28.95,victory,Miss Fortune,6,6,11,130,11100,14,SummonerHeal,SummonerFlash
+322,2020-04-25,Howling Abyss,,28.26666666666666,defeat,Morgana,10,12,27,65,16500,18,SummonerSnowball,SummonerFlash
+323,2020-04-25,Howling Abyss,,20.55,victory,Tristana,27,11,15,92,16400,18,SummonerHeal,SummonerFlash
+324,2020-04-25,Howling Abyss,,15.766666666666666,defeat,Blitzcrank,2,7,10,20,8400,16,SummonerMana,SummonerFlash
+325,2020-04-25,Howling Abyss,,18.516666666666662,defeat,Twisted Fate,5,7,10,42,10600,16,SummonerMana,SummonerFlash
+326,2020-04-25,Howling Abyss,,17.05,defeat,Master Yi,1,10,15,31,9100,14,SummonerSnowball,SummonerFlash
+327,2020-04-25,Summoner's Rift,Normal (Draft Mode),24.95,defeat,Jinx,2,10,0,115,6900,11,SummonerHeal,SummonerFlash
+328,2020-04-25,Howling Abyss,,23.03333333333333,defeat,Fizz,12,11,17,103,16000,18,SummonerSnowball,SummonerFlash
+329,2020-04-25,Summoner's Rift,Normal (Draft Mode),33.83333333333333,victory,Aphelios,5,5,13,208,12500,16,SummonerHeal,SummonerFlash
+330,2020-04-25,Summoner's Rift,Ranked (Draft Mode),25.93333333333333,victory,Miss Fortune,6,2,5,187,11400,13,SummonerHeal,SummonerFlash
+331,2020-04-25,Summoner's Rift,Ranked (Draft Mode),26.216666666666658,defeat,Caitlyn,4,7,3,174,9300,13,SummonerHeal,SummonerFlash
+332,2020-04-25,Summoner's Rift,Ranked (Draft Mode),33.4,victory,Miss Fortune,18,7,11,206,17300,18,SummonerHeal,SummonerFlash
+333,2020-04-25,Summoner's Rift,Ranked (Draft Mode),26.133333333333333,victory,Caitlyn,10,3,6,176,12200,14,SummonerHeal,SummonerFlash
+334,2020-04-25,Summoner's Rift,Ranked (Draft Mode),25.15,victory,Miss Fortune,11,4,10,157,11100,13,SummonerHeal,SummonerFlash
+335,2020-04-25,Howling Abyss,,14.633333333333331,victory,Twitch,8,5,13,41,10100,15,SummonerHeal,SummonerFlash
+336,2020-04-25,Summoner's Rift,Normal (Draft Mode),26.43333333333333,victory,Jinx,11,4,8,158,13200,14,SummonerHeal,SummonerFlash
+337,2020-04-25,Summoner's Rift,Normal (Draft Mode),42.01666666666666,victory,Jinx,16,9,16,261,20400,18,SummonerHeal,SummonerFlash
+338,2020-04-24,Summoner's Rift,Ranked (Draft Mode),29.78333333333333,victory,Miss Fortune,12,1,2,271,14500,15,SummonerHeal,SummonerFlash
+339,2020-04-24,Summoner's Rift,Ranked (Draft Mode),27.4,defeat,Miss Fortune,2,6,10,162,9000,13,SummonerHeal,SummonerFlash
+340,2020-04-24,Summoner's Rift,Ranked (Draft Mode),31.316666666666663,victory,Miss Fortune,17,1,9,262,17000,17,SummonerHeal,SummonerFlash
+341,2020-04-24,Summoner's Rift,Ranked (Draft Mode),32.11666666666666,defeat,Aphelios,1,4,9,189,9400,14,SummonerHeal,SummonerFlash
+342,2020-04-24,Summoner's Rift,Ranked (Draft Mode),3.2166666666666663,earlysurrender,Miss Fortune,0,0,0,15,974,2,SummonerHeal,SummonerFlash
+343,2020-04-24,Summoner's Rift,,37.98333333333333,defeat,Kai'Sa,12,10,15,187,14600,17,SummonerHeal,SummonerFlash
+344,2020-04-24,Howling Abyss,,15.83333333333333,defeat,Aphelios,8,7,11,57,10900,15,SummonerHeal,SummonerFlash
+345,2020-04-24,Summoner's Rift,Normal (Draft Mode),33.983333333333334,defeat,Miss Fortune,5,5,7,217,12500,15,SummonerHeal,SummonerFlash
+346,2020-04-24,Howling Abyss,,24.68333333333333,victory,Tristana,18,8,17,133,18100,18,SummonerHeal,SummonerFlash
+347,2020-04-23,Summoner's Rift,Normal (Draft Mode),27.68333333333333,defeat,Aphelios,6,9,2,170,11200,13,SummonerHeal,SummonerFlash
+348,2020-04-23,Summoner's Rift,Normal (Draft Mode),37.96666666666666,victory,Caitlyn,6,4,6,198,13900,15,SummonerHeal,SummonerFlash
+349,2020-04-23,Howling Abyss,,22.616666666666664,defeat,Irelia,14,14,16,163,17600,18,SummonerSnowball,SummonerFlash
+350,2020-04-23,Summoner's Rift,Ranked (Draft Mode),26.383333333333333,victory,Caitlyn,6,2,8,168,11200,14,SummonerHeal,SummonerFlash
+351,2020-04-23,Summoner's Rift,Normal (Draft Mode),34.28333333333333,defeat,Caitlyn,4,6,10,218,12300,16,SummonerHeal,SummonerFlash
+352,2020-04-23,Summoner's Rift,Normal (Draft Mode),29.766666666666662,victory,Jinx,9,8,12,148,13000,15,SummonerHeal,SummonerFlash
+353,2020-04-23,Howling Abyss,,23.566666666666663,victory,Ashe,5,7,27,94,14200,18,SummonerHeal,SummonerFlash
+354,2020-04-23,Howling Abyss,,17.05,defeat,Corki,5,9,13,71,10700,16,SummonerMana,SummonerFlash
+355,2020-04-23,Howling Abyss,,19.48333333333333,victory,Ahri,4,9,22,66,12000,18,SummonerMana,SummonerFlash
+356,2020-04-23,Howling Abyss,,23.93333333333333,victory,Ezreal,9,8,31,71,14600,18,SummonerHeal,SummonerFlash
+357,2020-04-23,Summoner's Rift,Normal (Draft Mode),17.3,defeat,Caitlyn,0,2,0,89,4200,10,SummonerHeal,SummonerFlash
+358,2020-04-23,Summoner's Rift,Normal (Draft Mode),31.46666666666666,victory,Caitlyn,13,2,9,211,15300,16,SummonerHeal,SummonerFlash
+359,2020-04-23,Summoner's Rift,Normal (Draft Mode),29.73333333333333,victory,Caitlyn,7,3,4,199,12400,15,SummonerHeal,SummonerFlash
+360,2020-04-22,Summoner's Rift,Ranked (Draft Mode),25.55,victory,Caitlyn,4,1,3,170,9900,13,SummonerHeal,SummonerFlash
+361,2020-04-22,Summoner's Rift,Normal (Draft Mode),31.48333333333333,defeat,Jinx,1,4,5,212,9800,14,SummonerHeal,SummonerFlash
+362,2020-04-22,Summoner's Rift,Normal (Draft Mode),26.11666666666666,victory,Jinx,17,2,7,204,14900,15,SummonerHeal,SummonerFlash
+363,2020-04-22,Summoner's Rift,Normal (Draft Mode),26.55,defeat,Caitlyn,5,7,1,185,10200,12,SummonerHeal,SummonerFlash
+364,2020-04-22,Summoner's Rift,Ranked (Draft Mode),20.4,victory,Caitlyn,2,0,2,136,6900,11,SummonerHeal,SummonerFlash
+365,2020-04-22,Summoner's Rift,Ranked (Draft Mode),34.38333333333333,victory,Miss Fortune,3,9,7,159,11000,16,SummonerHeal,SummonerFlash
+366,2020-04-22,Summoner's Rift,Normal (Draft Mode),31.616666666666664,victory,Tristana,5,3,3,208,11700,15,SummonerHeal,SummonerFlash
+367,2020-04-21,Summoner's Rift,Normal (Draft Mode),39.11666666666666,victory,Thresh,1,6,19,34,9900,15,SummonerDot,SummonerFlash
+368,2020-04-21,Summoner's Rift,Ranked (Draft Mode),42.08333333333332,defeat,Aphelios,5,6,4,261,14300,17,SummonerHeal,SummonerFlash
+369,2020-04-21,Summoner's Rift,Normal (Draft Mode),38.06666666666666,defeat,Tristana,3,6,8,253,13300,18,SummonerHeal,SummonerFlash
+370,2020-04-21,Summoner's Rift,Normal (Draft Mode),38.533333333333324,defeat,Jinx,13,6,14,379,21100,18,SummonerHeal,SummonerFlash
+371,2020-04-21,Summoner's Rift,Normal (Draft Mode),35.95,victory,Jinx,17,8,13,219,17200,17,SummonerHeal,SummonerFlash
+372,2020-04-20,Summoner's Rift,Normal (Draft Mode),37.58333333333332,defeat,Caitlyn,8,6,10,229,14400,16,SummonerHeal,SummonerFlash
+373,2020-04-20,Summoner's Rift,Normal (Draft Mode),28.516666666666662,defeat,Xerath,7,5,3,158,10100,14,SummonerTeleport,SummonerFlash
+374,2020-04-20,Summoner's Rift,Normal (Draft Mode),33.6,victory,Tristana,5,5,4,241,13400,17,SummonerTeleport,SummonerFlash
+375,2020-04-20,Summoner's Rift,,24.98333333333333,victory,Aphelios,10,1,6,179,12100,14,SummonerHeal,SummonerFlash
+376,2020-04-19,Summoner's Rift,Ranked (Draft Mode),22.55,defeat,Kai'Sa,1,5,4,150,7200,12,SummonerHeal,SummonerFlash
+377,2020-04-19,Summoner's Rift,Ranked (Draft Mode),3.2666666666666666,earlysurrender,Aphelios,0,1,0,10,851,2,SummonerHeal,SummonerFlash
+378,2020-04-19,Summoner's Rift,Ranked (Draft Mode),27.36666666666666,victory,Miss Fortune,1,7,7,138,8400,12,SummonerHeal,SummonerFlash
+379,2020-04-19,Summoner's Rift,Normal (Draft Mode),50.01666666666666,defeat,Jinx,3,9,8,359,16900,18,SummonerHeal,SummonerFlash
+380,2020-04-19,Summoner's Rift,Normal (Draft Mode),35.5,defeat,Jinx,8,11,14,164,13100,17,SummonerHeal,SummonerFlash
+381,2020-04-19,Summoner's Rift,Normal (Draft Mode),44.33333333333332,victory,Jinx,6,10,17,263,16500,18,SummonerHeal,SummonerFlash
+382,2020-04-19,Summoner's Rift,Normal (Draft Mode),27.133333333333333,victory,Jinx,5,1,11,153,10900,14,SummonerHeal,SummonerFlash
+383,2020-04-19,Summoner's Rift,Normal (Draft Mode),34.55,victory,Jinx,7,2,17,252,16000,17,SummonerHeal,SummonerFlash
+384,2020-04-19,Summoner's Rift,Ranked (Draft Mode),34.96666666666666,victory,Jinx,4,5,4,233,12300,14,SummonerHeal,SummonerFlash
+385,2020-04-19,Summoner's Rift,Normal (Draft Mode),44.7,victory,Ashe,3,7,15,269,15700,18,SummonerHeal,SummonerFlash
+386,2020-04-18,Summoner's Rift,Normal (Draft Mode),42.08333333333332,defeat,Ashe,3,7,12,282,14500,17,SummonerHeal,SummonerFlash
+387,2020-04-18,Summoner's Rift,Normal (Draft Mode),32.63333333333333,victory,Ashe,20,6,8,173,15300,16,SummonerHeal,SummonerFlash
+388,2020-04-18,Summoner's Rift,Normal (Draft Mode),27.583333333333332,victory,Jinx,10,8,7,134,10900,13,SummonerHeal,SummonerFlash
+389,2020-04-18,Summoner's Rift,Ranked (Draft Mode),35.666666666666664,defeat,Miss Fortune,8,5,8,235,15200,16,SummonerHeal,SummonerFlash
+390,2020-04-18,Summoner's Rift,Ranked (Draft Mode),21.1,defeat,Aphelios,0,2,2,137,5700,10,SummonerHeal,SummonerFlash
+391,2020-04-18,Summoner's Rift,Ranked (Draft Mode),32.56666666666666,defeat,Miss Fortune,9,4,4,201,13000,13,SummonerHeal,SummonerFlash
+392,2020-04-18,Summoner's Rift,Ranked (Draft Mode),37.46666666666666,victory,Aphelios,6,4,18,246,15100,17,SummonerHeal,SummonerFlash
+393,2020-04-18,Summoner's Rift,Ranked (Draft Mode),28.566666666666663,victory,Miss Fortune,9,4,11,186,13000,14,SummonerHeal,SummonerFlash
+394,2020-04-18,Summoner's Rift,Ranked (Draft Mode),32.016666666666666,victory,Miss Fortune,7,3,5,210,12500,15,SummonerHeal,SummonerFlash
+395,2020-04-18,Summoner's Rift,Ranked (Draft Mode),24.91666666666666,victory,Caitlyn,4,2,7,168,10000,13,SummonerHeal,SummonerFlash
+396,2020-04-18,Howling Abyss,Custom,17.93333333333333,defeat,Mordekaiser,11,10,14,59,11800,16,SummonerSnowball,SummonerFlash
+397,2020-04-18,Howling Abyss,Custom,18.4,victory,Heimerdinger,8,8,33,73,12800,18,SummonerMana,SummonerFlash
+398,2020-04-18,Howling Abyss,Custom,12.766666666666666,victory,Nocturne,7,9,13,37,9100,13,SummonerSnowball,SummonerFlash
+399,2020-04-17,Howling Abyss,,20.28333333333333,defeat,Ashe,16,7,34,57,15000,18,SummonerHeal,SummonerFlash
+400,2020-04-17,Summoner's Rift,Ranked (Draft Mode),34.58333333333333,defeat,Veigar,20,10,12,217,19700,17,SummonerTeleport,SummonerFlash
+401,2020-04-17,Summoner's Rift,Ranked (Draft Mode),36.3,defeat,Miss Fortune,4,6,8,210,12400,15,SummonerHeal,SummonerFlash
+402,2020-04-17,Summoner's Rift,Ranked (Draft Mode),30.53333333333333,victory,Miss Fortune,5,2,7,232,13600,14,SummonerHeal,SummonerFlash
+403,2020-04-17,Summoner's Rift,Ranked (Draft Mode),34.53333333333333,victory,Aphelios,4,9,9,182,12600,14,SummonerHeal,SummonerFlash
+404,2020-04-17,Summoner's Rift,Ranked (Draft Mode),39.11666666666666,victory,Aphelios,6,5,14,251,15900,18,SummonerHeal,SummonerFlash
+405,2020-04-17,Summoner's Rift,Ranked (Draft Mode),24.66666666666666,defeat,Miss Fortune,1,7,3,142,6900,12,SummonerHeal,SummonerFlash
+406,2020-04-17,Summoner's Rift,Ranked (Draft Mode),3.5,earlysurrender,Miss Fortune,0,0,0,16,1000,2,SummonerHeal,SummonerFlash
+407,2020-04-17,Summoner's Rift,Ranked (Draft Mode),40.133333333333326,defeat,Miss Fortune,4,4,10,298,15200,18,SummonerHeal,SummonerFlash
+408,2020-04-17,Summoner's Rift,Ranked (Draft Mode),41.08333333333332,defeat,Miss Fortune,14,8,11,281,18900,18,SummonerHeal,SummonerFlash
+409,2020-04-17,Summoner's Rift,Ranked (Draft Mode),32.53333333333333,defeat,Aphelios,5,8,7,167,10100,13,SummonerHeal,SummonerFlash
+410,2020-04-17,Summoner's Rift,Ranked (Draft Mode),38.58333333333332,victory,Miss Fortune,4,4,13,210,13200,16,SummonerHeal,SummonerFlash
+411,2020-04-16,Summoner's Rift,Normal (Draft Mode),33.7,victory,Thresh,5,3,30,42,11400,15,SummonerDot,SummonerFlash
+412,2020-04-16,Summoner's Rift,Normal (Draft Mode),37.7,defeat,Kai'Sa,6,5,8,216,13100,16,SummonerHeal,SummonerFlash
+413,2020-04-16,Summoner's Rift,Normal (Draft Mode),19.383333333333333,victory,Kai'Sa,2,2,7,113,6400,10,SummonerHeal,SummonerFlash
+414,2020-04-16,Summoner's Rift,Ranked (Draft Mode),29.68333333333333,victory,Miss Fortune,12,1,9,210,14300,15,SummonerHeal,SummonerFlash
+415,2020-04-16,Summoner's Rift,Ranked (Draft Mode),29.35,defeat,Xayah,2,10,4,117,7500,12,SummonerHeal,SummonerFlash
+416,2020-04-16,Summoner's Rift,Ranked (Draft Mode),31.75,victory,Miss Fortune,7,2,8,212,13700,16,SummonerHeal,SummonerFlash
+417,2020-04-15,Summoner's Rift,Ranked (Draft Mode),22.68333333333333,victory,Miss Fortune,4,7,6,131,8400,11,SummonerHeal,SummonerFlash
+418,2020-04-15,Summoner's Rift,Ranked (Draft Mode),25.833333333333332,victory,Miss Fortune,6,1,6,172,10000,13,SummonerHeal,SummonerFlash
+419,2020-04-15,Summoner's Rift,Normal (Draft Mode),23.2,victory,Xerath,13,5,4,128,10700,14,SummonerBarrier,SummonerFlash
+420,2020-04-15,Summoner's Rift,Ranked (Draft Mode),27.18333333333333,victory,Miss Fortune,10,3,10,186,13100,14,SummonerHeal,SummonerFlash
+421,2020-04-15,Summoner's Rift,Ranked (Draft Mode),33.516666666666666,defeat,Xayah,5,5,8,234,12800,16,SummonerHeal,SummonerFlash
+422,2020-04-15,Summoner's Rift,Ranked (Draft Mode),32.916666666666664,victory,Miss Fortune,7,3,3,215,13700,15,SummonerHeal,SummonerFlash
+423,2020-04-15,Summoner's Rift,Ranked (Draft Mode),37.45,victory,Miss Fortune,11,2,10,316,17500,18,SummonerHeal,SummonerFlash
+424,2020-04-15,Summoner's Rift,Normal (Draft Mode),25.91666666666666,defeat,Heimerdinger,1,4,1,148,7800,13,SummonerDot,SummonerFlash
+425,2020-04-14,Summoner's Rift,Ranked (Draft Mode),31.1,defeat,Aphelios,4,8,6,164,10400,13,SummonerHeal,SummonerFlash
+426,2020-04-14,Summoner's Rift,Normal (Draft Mode),33.68333333333333,defeat,Caitlyn,7,4,8,225,13600,15,SummonerHeal,SummonerFlash
+427,2020-04-14,Summoner's Rift,Normal (Draft Mode),26.96666666666666,victory,Xayah,7,3,15,144,10500,13,SummonerHeal,SummonerFlash
+428,2020-04-14,Summoner's Rift,Normal (Draft Mode),37.0,defeat,Aphelios,13,7,12,249,18900,18,SummonerHeal,SummonerFlash
+429,2020-04-14,Summoner's Rift,Ranked (Draft Mode),31.03333333333333,victory,Miss Fortune,10,0,5,263,15100,16,SummonerHeal,SummonerFlash
+430,2020-04-14,Summoner's Rift,Ranked (Draft Mode),24.766666666666662,victory,Aphelios,4,1,2,179,10500,13,SummonerHeal,SummonerFlash
+431,2020-04-14,Summoner's Rift,Ranked (Draft Mode),31.566666666666663,victory,Aphelios,9,6,15,242,14700,15,SummonerHeal,SummonerFlash
+432,2020-04-14,Summoner's Rift,Ranked (Draft Mode),25.7,defeat,Aphelios,1,3,8,179,8600,14,SummonerHeal,SummonerFlash
+433,2020-04-13,Howling Abyss,Custom,27.5,defeat,Heimerdinger,19,12,31,124,19200,18,SummonerMana,SummonerFlash
+434,2020-04-13,Howling Abyss,Custom,15.433333333333332,defeat,Singed,7,8,12,20,10000,16,SummonerSnowball,SummonerFlash
+435,2020-04-13,Howling Abyss,Custom,14.866666666666665,defeat,Tristana,11,6,12,66,10400,15,SummonerHeal,SummonerFlash
+436,2020-04-13,Howling Abyss,Custom,19.8,victory,Tristana,11,6,22,101,13600,18,SummonerHeal,SummonerFlash
+437,2020-04-13,Howling Abyss,Custom,16.53333333333333,victory,Aphelios,19,5,8,95,13200,17,SummonerHeal,SummonerFlash
+438,2020-04-13,Summoner's Rift,Ranked (Draft Mode),29.583333333333332,victory,Aphelios,7,0,7,267,13500,15,SummonerHeal,SummonerFlash
+439,2020-04-13,Summoner's Rift,Ranked (Draft Mode),43.68333333333332,victory,Aphelios,13,3,9,320,19500,18,SummonerHeal,SummonerFlash
+440,2020-04-13,Summoner's Rift,Ranked (Draft Mode),28.8,defeat,Aphelios,1,7,2,166,8900,12,SummonerHeal,SummonerFlash
+441,2020-04-13,Summoner's Rift,Ranked (Draft Mode),29.16666666666666,victory,Aphelios,17,4,8,199,14600,15,SummonerHeal,SummonerFlash
+442,2020-04-13,Summoner's Rift,Ranked (Draft Mode),36.58333333333332,victory,Thresh,2,8,23,27,9100,16,SummonerDot,SummonerFlash
+443,2020-04-13,Summoner's Rift,Ranked (Draft Mode),43.7,victory,Aphelios,18,6,4,385,23800,18,SummonerHeal,SummonerFlash
+444,2020-04-12,Summoner's Rift,,33.5,defeat,Aphelios,7,11,12,190,12600,15,SummonerBarrier,SummonerFlash
+445,2020-04-12,Summoner's Rift,,36.86666666666666,defeat,Caitlyn,4,9,5,225,12600,14,SummonerHeal,SummonerFlash
+446,2020-04-12,Summoner's Rift,,49.21666666666666,defeat,Caitlyn,4,5,4,360,17400,18,SummonerHeal,SummonerFlash
+447,2020-04-12,Summoner's Rift,Normal (Draft Mode),21.766666666666662,victory,Aphelios,3,0,4,174,8800,12,SummonerHeal,SummonerFlash
+448,2020-04-12,Summoner's Rift,Normal (Draft Mode),17.133333333333333,victory,Aphelios,4,2,8,81,6900,10,SummonerHeal,SummonerFlash
+449,2020-04-12,Summoner's Rift,Ranked (Draft Mode),32.1,victory,Caitlyn,3,3,11,171,11900,15,SummonerHeal,SummonerFlash
+450,2020-04-12,Summoner's Rift,Ranked (Draft Mode),31.46666666666666,victory,Aphelios,7,2,7,252,13100,15,SummonerHeal,SummonerFlash
+451,2020-04-12,Howling Abyss,,23.8,victory,Malphite,5,16,33,42,13500,18,SummonerHeal,SummonerFlash
+452,2020-04-12,Howling Abyss,,21.383333333333333,defeat,Tristana,10,16,24,61,13600,18,SummonerHeal,SummonerFlash
+453,2020-04-12,Howling Abyss,,23.1,defeat,Ezreal,6,10,18,26,12600,18,SummonerHeal,SummonerFlash
+454,2020-04-12,Howling Abyss,,13.416666666666666,defeat,Thresh,5,6,13,24,8700,14,SummonerMana,SummonerFlash
+455,2020-04-12,Howling Abyss,,19.16666666666666,defeat,Janna,4,7,19,56,11700,17,SummonerMana,SummonerFlash
+456,2020-04-12,Howling Abyss,,15.766666666666666,defeat,Veigar,6,8,10,51,9300,14,SummonerMana,SummonerFlash
+457,2020-04-12,Summoner's Rift,Normal (Draft Mode),27.41666666666666,defeat,Xerath,2,4,10,155,8300,14,SummonerBarrier,SummonerFlash
+458,2020-04-12,Summoner's Rift,Normal (Draft Mode),34.21666666666666,victory,Aphelios,3,12,11,160,10400,14,SummonerHeal,SummonerFlash
+459,2020-04-12,Summoner's Rift,Normal (Draft Mode),35.13333333333333,victory,Aphelios,10,5,5,240,14500,16,SummonerHeal,SummonerFlash
+460,2020-04-12,Summoner's Rift,Normal (Draft Mode),31.583333333333332,victory,Miss Fortune,7,6,13,153,11400,14,SummonerHeal,SummonerFlash
+461,2020-04-11,Summoner's Rift,Normal (Draft Mode),38.633333333333326,defeat,Aphelios,12,7,18,237,17000,17,SummonerHeal,SummonerFlash
+462,2020-04-11,Summoner's Rift,Normal (Draft Mode),48.266666666666666,victory,Aphelios,18,4,14,338,22800,18,SummonerHeal,SummonerFlash
+463,2020-04-11,Summoner's Rift,,36.783333333333324,defeat,Aphelios,6,5,13,239,14300,17,SummonerHeal,SummonerFlash
+464,2020-04-11,Summoner's Rift,,30.2,defeat,Miss Fortune,4,6,9,170,10100,13,SummonerHeal,SummonerFlash
+465,2020-04-11,Howling Abyss,,18.866666666666664,defeat,Miss Fortune,6,8,13,85,11600,17,SummonerHeal,SummonerFlash
+466,2020-04-11,Summoner's Rift,Normal (Draft Mode),41.96666666666666,defeat,Aphelios,2,6,6,326,16900,17,SummonerHeal,SummonerFlash
+467,2020-04-11,Howling Abyss,,19.95,victory,Caitlyn,5,2,23,93,13000,18,SummonerHeal,SummonerFlash
+468,2020-04-11,Summoner's Rift,Ranked (Draft Mode),19.35,defeat,Corki,0,5,0,111,5000,11,SummonerTeleport,SummonerFlash
+469,2020-04-11,Summoner's Rift,Ranked (Draft Mode),17.05,defeat,Aphelios,0,5,0,110,4800,8,SummonerHeal,SummonerFlash
+470,2020-04-10,Howling Abyss,,20.85,defeat,Tristana,9,12,16,68,12900,18,SummonerHeal,SummonerFlash
+471,2020-04-10,Howling Abyss,,26.833333333333332,defeat,Veigar,17,12,26,112,18700,18,SummonerHeal,SummonerFlash
+472,2020-04-10,Summoner's Rift,Ranked (Draft Mode),24.93333333333333,defeat,Miss Fortune,3,10,3,131,7700,12,SummonerHeal,SummonerFlash
+473,2020-04-10,Summoner's Rift,Ranked (Draft Mode),25.95,defeat,Aphelios,3,5,2,144,7800,12,SummonerHeal,SummonerFlash
+474,2020-04-10,Summoner's Rift,Ranked (Draft Mode),21.43333333333333,victory,Miss Fortune,0,1,10,134,7000,11,SummonerHeal,SummonerFlash
+475,2020-04-10,Summoner's Rift,Ranked (Draft Mode),31.9,victory,Aphelios,11,5,12,194,14600,16,SummonerHeal,SummonerFlash
+476,2020-04-10,Summoner's Rift,Ranked (Draft Mode),30.083333333333332,victory,Xayah,1,5,6,188,10200,13,SummonerHeal,SummonerFlash
+477,2020-04-10,Summoner's Rift,Ranked (Draft Mode),35.016666666666666,defeat,Miss Fortune,6,6,3,222,13700,15,SummonerHeal,SummonerFlash
+478,2020-04-10,Summoner's Rift,Ranked (Draft Mode),28.68333333333333,victory,Caitlyn,7,3,17,171,12200,15,SummonerHeal,SummonerFlash
+479,2020-04-10,Summoner's Rift,Ranked (Draft Mode),33.93333333333333,victory,Aphelios,9,6,6,192,13200,16,SummonerHeal,SummonerFlash
+480,2020-04-10,Summoner's Rift,Ranked (Draft Mode),29.766666666666662,victory,Xayah,5,7,12,134,9900,13,SummonerHeal,SummonerFlash
+481,2020-04-09,Summoner's Rift,Ranked (Draft Mode),32.28333333333333,victory,Xayah,10,4,18,242,14300,17,SummonerHeal,SummonerFlash
+482,2020-04-09,Summoner's Rift,Ranked (Draft Mode),32.11666666666666,defeat,Miss Fortune,4,9,16,191,11600,14,SummonerHeal,SummonerFlash
+483,2020-04-09,Summoner's Rift,Normal (Draft Mode),24.5,victory,Aphelios,6,7,8,147,11300,12,SummonerHeal,SummonerFlash
+484,2020-04-09,Summoner's Rift,Normal (Draft Mode),29.18333333333333,defeat,Miss Fortune,9,5,3,228,13100,15,SummonerHeal,SummonerFlash
+485,2020-04-09,Summoner's Rift,Normal (Draft Mode),3.3833333333333333,earlysurrender,Aphelios,0,0,0,14,989,2,SummonerHeal,SummonerFlash
+486,2020-04-09,Summoner's Rift,Normal (Draft Mode),51.08333333333332,victory,Miss Fortune,7,11,9,351,20600,18,SummonerHeal,SummonerFlash
+487,2020-04-09,Summoner's Rift,Normal (Draft Mode),28.7,victory,Lucian,5,7,8,134,9500,13,SummonerHeal,SummonerFlash
+488,2020-04-09,Summoner's Rift,Ranked (Draft Mode),35.56666666666666,defeat,Aphelios,7,8,11,255,15300,17,SummonerHeal,SummonerFlash
+489,2020-04-09,Summoner's Rift,Ranked (Draft Mode),25.3,victory,Miss Fortune,12,1,5,159,11300,13,SummonerHeal,SummonerFlash
+490,2020-04-09,Summoner's Rift,Ranked (Draft Mode),24.883333333333333,victory,Miss Fortune,8,3,5,143,10000,12,SummonerHeal,SummonerFlash
+491,2020-04-09,Summoner's Rift,Ranked (Draft Mode),33.8,victory,Aphelios,15,4,10,244,16600,16,SummonerHeal,SummonerFlash
+492,2020-04-09,Summoner's Rift,Ranked (Draft Mode),22.53333333333333,victory,Miss Fortune,6,3,7,131,8600,12,SummonerHeal,SummonerFlash
+493,2020-04-09,Summoner's Rift,Ranked (Draft Mode),36.05,victory,Caitlyn,8,4,13,235,14000,16,SummonerHeal,SummonerFlash
+494,2020-04-09,Summoner's Rift,Ranked (Draft Mode),22.15,victory,Miss Fortune,6,0,4,176,10800,12,SummonerHeal,SummonerFlash
+495,2020-04-09,Summoner's Rift,Ranked (Draft Mode),29.98333333333333,victory,Miss Fortune,8,3,5,204,12000,15,SummonerHeal,SummonerFlash
+496,2020-04-09,Summoner's Rift,Ranked (Draft Mode),33.95,defeat,Aphelios,5,6,9,210,13400,15,SummonerHeal,SummonerFlash
+497,2020-04-08,Summoner's Rift,Ranked (Draft Mode),29.583333333333332,defeat,Miss Fortune,9,6,6,172,11800,14,SummonerHeal,SummonerFlash
+498,2020-04-08,Summoner's Rift,Ranked (Draft Mode),28.6,defeat,Aphelios,1,7,2,155,7600,12,SummonerHeal,SummonerFlash
+499,2020-04-07,Summoner's Rift,Ranked (Draft Mode),24.5,defeat,Miss Fortune,1,5,2,144,6700,12,SummonerHeal,SummonerFlash
+500,2020-04-07,Summoner's Rift,Ranked (Draft Mode),38.533333333333324,defeat,Miss Fortune,2,4,5,314,13700,17,SummonerHeal,SummonerFlash
+501,2020-04-07,Summoner's Rift,Ranked (Draft Mode),36.85,defeat,Aphelios,12,6,12,231,16500,16,SummonerHeal,SummonerFlash
+502,2020-04-07,Summoner's Rift,Ranked (Draft Mode),44.516666666666666,victory,Miss Fortune,13,6,16,268,19600,18,SummonerHeal,SummonerFlash
+503,2020-04-07,Summoner's Rift,Ranked (Draft Mode),34.11666666666666,victory,Miss Fortune,17,7,10,181,16300,16,SummonerHeal,SummonerFlash
+504,2020-04-07,Summoner's Rift,Ranked (Draft Mode),26.833333333333332,victory,Miss Fortune,14,4,5,219,14400,14,SummonerHeal,SummonerFlash
+505,2020-04-07,Summoner's Rift,Ranked (Draft Mode),46.533333333333324,defeat,Aphelios,8,4,8,421,21200,18,SummonerHeal,SummonerFlash
+506,2020-04-07,Summoner's Rift,Ranked (Draft Mode),31.8,defeat,Aphelios,3,7,2,211,11800,14,SummonerHeal,SummonerFlash
+507,2020-04-06,Summoner's Rift,Ranked (Draft Mode),29.91666666666666,victory,Miss Fortune,13,4,13,202,13800,15,SummonerHeal,SummonerFlash
+508,2020-04-06,Summoner's Rift,Ranked (Draft Mode),26.083333333333332,defeat,Aphelios,2,9,4,152,8200,12,SummonerHeal,SummonerFlash
+509,2020-04-06,Summoner's Rift,Normal (Draft Mode),29.9,victory,Aphelios,9,4,11,208,13800,14,SummonerHeal,SummonerFlash
+510,2020-04-06,Summoner's Rift,Ranked (Draft Mode),31.53333333333333,defeat,Aphelios,6,3,4,190,11100,14,SummonerHeal,SummonerFlash
+511,2020-04-06,Summoner's Rift,Ranked (Draft Mode),16.716666666666665,victory,Aphelios,2,0,0,127,5800,9,SummonerHeal,SummonerFlash
+512,2020-04-06,Summoner's Rift,Ranked (Draft Mode),36.283333333333324,defeat,Caitlyn,9,5,6,181,12500,15,SummonerHeal,SummonerFlash
+513,2020-04-06,Summoner's Rift,Ranked (Draft Mode),28.48333333333333,victory,Aphelios,11,0,2,248,13600,15,SummonerHeal,SummonerFlash
+514,2020-04-06,Summoner's Rift,Ranked (Draft Mode),41.1,defeat,Aphelios,6,9,10,202,13500,15,SummonerHeal,SummonerFlash
+515,2020-04-05,Summoner's Rift,Custom,37.43333333333332,victory,Aphelios,12,5,10,227,16100,17,SummonerHeal,SummonerFlash
+516,2020-04-05,Summoner's Rift,Custom,21.98333333333333,victory,Aphelios,7,5,7,117,9300,12,SummonerHeal,SummonerFlash
+517,2020-04-05,Summoner's Rift,Ranked (Draft Mode),28.91666666666666,defeat,Aphelios,6,4,5,195,10700,15,SummonerHeal,SummonerFlash
+518,2020-04-05,Summoner's Rift,Ranked (Draft Mode),21.93333333333333,victory,Aphelios,9,4,12,112,10400,12,SummonerHeal,SummonerFlash
+519,2020-04-05,Summoner's Rift,Ranked (Draft Mode),35.0,defeat,Caitlyn,11,5,13,216,15800,15,SummonerHeal,SummonerFlash
+520,2020-04-05,Summoner's Rift,Ranked (Draft Mode),40.21666666666666,defeat,Caitlyn,5,5,11,271,14800,18,SummonerHeal,SummonerFlash
+521,2020-04-05,Summoner's Rift,Ranked (Draft Mode),25.46666666666666,victory,Aphelios,9,4,12,152,11200,14,SummonerHeal,SummonerFlash
+522,2020-04-05,Summoner's Rift,Ranked (Draft Mode),30.833333333333332,victory,Caitlyn,9,4,9,180,12600,16,SummonerHeal,SummonerFlash
+523,2020-04-05,Summoner's Rift,Ranked (Draft Mode),20.266666666666662,defeat,Aphelios,2,3,1,126,6700,10,SummonerHeal,SummonerFlash
+524,2020-04-05,Summoner's Rift,Ranked (Draft Mode),22.633333333333333,victory,Aphelios,9,0,8,158,10300,12,SummonerHeal,SummonerFlash
+525,2020-04-05,Summoner's Rift,Ranked (Draft Mode),34.35,defeat,Aphelios,11,9,13,275,18000,18,SummonerHeal,SummonerFlash
+526,2020-04-05,Summoner's Rift,Ranked (Draft Mode),28.5,victory,Aphelios,14,5,13,199,14500,16,SummonerHeal,SummonerFlash
+527,2020-04-05,Summoner's Rift,Ranked (Draft Mode),33.18333333333333,defeat,Aphelios,1,7,14,232,10900,16,SummonerHeal,SummonerFlash
+528,2020-04-05,Summoner's Rift,Ranked (Draft Mode),30.45,victory,Aphelios,9,2,7,228,13500,15,SummonerHeal,SummonerFlash
+529,2020-04-05,Summoner's Rift,Ranked (Draft Mode),26.7,victory,Xayah,7,4,13,125,10800,14,SummonerHeal,SummonerFlash
+530,2020-04-04,Summoner's Rift,Ranked (Draft Mode),23.68333333333333,defeat,Ezreal,1,4,2,143,6800,12,SummonerHeal,SummonerFlash
+531,2020-04-04,Summoner's Rift,Ranked (Draft Mode),37.68333333333332,victory,Aphelios,6,11,15,202,14600,17,SummonerHeal,SummonerFlash
+532,2020-04-04,Summoner's Rift,One for All,30.05,victory,Fiddlesticks,8,6,27,80,14100,18,SummonerTeleport,SummonerFlash
+533,2020-04-04,Summoner's Rift,Custom,31.93333333333333,defeat,Caitlyn,4,8,3,181,11300,12,SummonerHeal,SummonerFlash
+534,2020-04-04,Summoner's Rift,Custom,37.783333333333324,defeat,Aphelios,1,3,3,258,12200,16,SummonerHeal,SummonerFlash
+535,2020-04-04,Summoner's Rift,Normal (Draft Mode),27.0,defeat,Thresh,1,4,7,31,6100,12,SummonerDot,SummonerFlash
+536,2020-04-04,Summoner's Rift,Normal (Draft Mode),26.46666666666666,victory,Thresh,4,3,10,36,8300,13,SummonerDot,SummonerFlash
+537,2020-04-04,Summoner's Rift,Normal (Draft Mode),43.48333333333333,defeat,Aphelios,12,13,15,281,18500,18,SummonerHeal,SummonerFlash
+538,2020-04-04,Summoner's Rift,One for All,20.7,victory,Fizz,19,4,10,69,17600,18,SummonerDot,SummonerFlash
+539,2020-04-04,Summoner's Rift,Ranked (Draft Mode),32.86666666666666,victory,Aphelios,6,3,12,178,11900,15,SummonerHeal,SummonerFlash
+540,2020-04-04,Summoner's Rift,Normal (Draft Mode),41.93333333333332,defeat,Heimerdinger,5,8,12,224,14100,17,SummonerTeleport,SummonerFlash
+541,2020-04-04,Summoner's Rift,Normal (Draft Mode),22.883333333333333,defeat,Irelia,2,9,3,123,7400,11,SummonerDot,SummonerFlash
+542,2020-04-04,Summoner's Rift,Normal (Draft Mode),36.133333333333326,victory,Thresh,6,5,20,39,11400,16,SummonerDot,SummonerFlash
+543,2020-04-03,Summoner's Rift,Ranked (Draft Mode),24.53333333333333,defeat,Aphelios,2,9,4,126,8100,11,SummonerHeal,SummonerFlash
+544,2020-04-03,Summoner's Rift,Ranked (Draft Mode),25.35,defeat,Xayah,5,5,9,153,10000,13,SummonerHeal,SummonerFlash
+545,2020-04-03,Summoner's Rift,Ranked (Draft Mode),24.11666666666666,victory,Aphelios,9,1,7,165,10800,14,SummonerHeal,SummonerFlash
+546,2020-04-03,Summoner's Rift,Normal (Draft Mode),31.46666666666666,defeat,Caitlyn,2,7,5,158,9000,12,SummonerHeal,SummonerFlash
+547,2020-04-03,Summoner's Rift,Ranked (Draft Mode),26.15,victory,Caitlyn,5,0,11,164,10200,13,SummonerHeal,SummonerFlash
+548,2020-04-03,Summoner's Rift,Ranked (Draft Mode),32.38333333333333,victory,Miss Fortune,10,7,7,179,14900,15,SummonerHeal,SummonerFlash
+549,2020-04-03,Summoner's Rift,Ranked (Draft Mode),29.16666666666666,victory,Aphelios,4,5,9,195,11000,14,SummonerHeal,SummonerFlash
+550,2020-04-03,Summoner's Rift,Ranked (Draft Mode),22.75,victory,Aphelios,6,2,4,117,8800,12,SummonerHeal,SummonerFlash
+551,2020-04-03,Summoner's Rift,Ranked (Draft Mode),38.766666666666666,defeat,Aphelios,8,2,13,258,15400,17,SummonerHeal,SummonerFlash
+552,2020-04-03,Summoner's Rift,Ranked (Draft Mode),34.03333333333333,victory,Aphelios,11,6,11,201,14400,15,SummonerHeal,SummonerFlash
+553,2020-04-03,Summoner's Rift,Ranked (Draft Mode),3.3666666666666663,earlysurrender,Aphelios,0,0,0,15,947,3,SummonerHeal,SummonerFlash
+554,2020-04-03,Summoner's Rift,Ranked (Draft Mode),22.15,victory,Caitlyn,5,2,4,144,8200,11,SummonerHeal,SummonerFlash
+555,2020-04-03,Howling Abyss,Custom,13.25,victory,Irelia,5,5,14,62,8900,14,SummonerSnowball,SummonerFlash
+556,2020-04-03,Summoner's Rift,Custom,25.383333333333333,victory,Ezreal,2,5,10,112,7700,13,SummonerSmite,SummonerTeleport
+557,2020-04-02,Summoner's Rift,Custom,37.48333333333333,defeat,Alistar,9,12,19,124,13300,16,SummonerDot,SummonerFlash
+558,2020-04-02,Summoner's Rift,Custom,38.81666666666666,victory,Aphelios,16,12,17,224,17800,18,SummonerHeal,SummonerFlash
+559,2020-04-02,Howling Abyss,Custom,21.91666666666666,victory,Evelynn,13,7,10,97,14400,18,SummonerSnowball,SummonerFlash
+560,2020-04-02,Summoner's Rift,One for All,21.9,defeat,Zed,9,10,9,53,11400,16,SummonerDot,SummonerFlash
+561,2020-04-02,Summoner's Rift,Normal (Draft Mode),41.9,victory,Ezreal,12,6,5,257,16900,18,SummonerHeal,SummonerFlash
+562,2020-04-02,Summoner's Rift,Normal (Draft Mode),25.9,defeat,Caitlyn,4,1,2,160,9200,12,SummonerHeal,SummonerFlash
+563,2020-04-02,Summoner's Rift,Ranked (Draft Mode),27.68333333333333,victory,Aphelios,11,1,6,211,13300,15,SummonerHeal,SummonerFlash
+564,2020-04-02,Summoner's Rift,Normal (Draft Mode),36.633333333333326,victory,Tristana,10,6,8,209,15800,17,SummonerHeal,SummonerFlash
+565,2020-04-02,Summoner's Rift,Normal (Draft Mode),25.06666666666666,victory,Lucian,5,5,12,100,8400,13,SummonerHeal,SummonerFlash
+566,2020-04-01,Summoner's Rift,One for All,17.98333333333333,victory,Draven,6,4,11,62,11300,16,SummonerHeal,SummonerFlash
+567,2020-04-01,Summoner's Rift,One for All,16.55,defeat,Yuumi,1,6,8,16,5200,11,SummonerHeal,SummonerDot
+568,2020-04-01,Summoner's Rift,Ranked (Draft Mode),34.016666666666666,victory,Caitlyn,8,5,8,218,13900,16,SummonerHeal,SummonerFlash
+569,2020-04-01,Summoner's Rift,Normal (Draft Mode),38.0,defeat,Aphelios,3,9,11,192,12200,16,SummonerHeal,SummonerFlash
+570,2020-04-01,Summoner's Rift,Normal (Draft Mode),31.66666666666666,defeat,Caitlyn,4,5,4,183,11200,13,SummonerHeal,SummonerFlash
+571,2020-03-31,Summoner's Rift,One for All,24.2,defeat,Shen,1,11,8,49,8900,16,SummonerExhaust,SummonerFlash
+572,2020-03-31,Summoner's Rift,One for All,23.216666666666658,defeat,Azir,8,11,3,85,13300,16,SummonerExhaust,SummonerFlash
+573,2020-03-31,Summoner's Rift,Normal (Draft Mode),24.15,defeat,Caitlyn,4,3,2,123,7800,11,SummonerHeal,SummonerFlash
+574,2020-03-31,Summoner's Rift,One for All,22.133333333333333,defeat,Tahm Kench,6,6,8,99,12500,16,SummonerExhaust,SummonerFlash
+575,2020-03-31,Summoner's Rift,One for All,24.46666666666666,victory,Taric,3,6,19,90,11400,17,SummonerExhaust,SummonerFlash
+576,2020-03-31,Summoner's Rift,Normal (Draft Mode),27.06666666666666,defeat,Miss Fortune,10,6,6,195,12500,15,SummonerHeal,SummonerFlash
+577,2020-03-29,Summoner's Rift,One for All,24.0,defeat,Hecarim,4,12,14,90,11700,17,SummonerTeleport,SummonerHaste
+578,2020-03-29,Summoner's Rift,One for All,20.65,victory,Yasuo,4,10,10,43,9500,16,SummonerDot,SummonerFlash
+579,2020-03-29,Summoner's Rift,Ranked (Draft Mode),28.1,defeat,Caitlyn,3,5,7,165,9400,14,SummonerHeal,SummonerFlash
+580,2020-03-28,Summoner's Rift,Normal (Draft Mode),32.81666666666666,defeat,Caitlyn,5,5,8,215,13400,15,SummonerHeal,SummonerFlash
+581,2020-03-28,Summoner's Rift,Normal (Draft Mode),16.133333333333333,defeat,Aphelios,0,4,0,91,4200,8,SummonerHeal,SummonerFlash
+582,2020-03-28,Summoner's Rift,,49.166666666666664,defeat,Caitlyn,21,5,5,392,24700,18,SummonerHeal,SummonerFlash
+583,2020-03-28,Summoner's Rift,,31.16666666666666,defeat,Aphelios,3,4,5,222,10100,14,SummonerHeal,SummonerFlash
+584,2020-03-28,Summoner's Rift,,32.61666666666666,defeat,Aphelios,3,4,2,225,10300,14,SummonerHeal,SummonerFlash
+585,2020-03-28,Summoner's Rift,Ranked (Draft Mode),41.48333333333333,victory,Heimerdinger,10,5,17,239,17100,18,SummonerTeleport,SummonerFlash
+586,2020-03-28,Summoner's Rift,Normal (Draft Mode),23.866666666666664,victory,Aphelios,7,4,9,149,10400,13,SummonerHeal,SummonerFlash
+587,2020-03-27,Summoner's Rift,Normal (Draft Mode),30.16666666666666,victory,Xayah,5,5,25,163,12400,15,SummonerHeal,SummonerFlash
+588,2020-03-27,Summoner's Rift,Normal (Draft Mode),38.11666666666666,victory,Caitlyn,6,4,15,218,13800,16,SummonerHeal,SummonerFlash
+589,2020-03-27,Summoner's Rift,One for All,27.96666666666666,victory,Rumble,5,5,9,111,13900,18,SummonerDot,SummonerFlash
+590,2020-03-27,Summoner's Rift,One for All,27.36666666666666,victory,Jax,10,6,3,138,16900,18,SummonerDot,SummonerFlash
+591,2020-03-27,Howling Abyss,,20.15,victory,Galio,3,8,22,66,11900,18,SummonerHeal,SummonerFlash
+592,2020-03-27,Summoner's Rift,Ranked (Draft Mode),20.96666666666666,victory,Aphelios,3,2,4,150,8100,12,SummonerHeal,SummonerFlash
+593,2020-03-27,Summoner's Rift,Ranked (Draft Mode),26.15,victory,Caitlyn,5,5,3,165,9900,12,SummonerHeal,SummonerFlash
+594,2020-03-26,Summoner's Rift,One for All,25.36666666666666,defeat,Irelia,11,11,6,93,15800,18,SummonerExhaust,SummonerFlash
+595,2020-03-26,Summoner's Rift,One for All,34.35,victory,Aatrox,6,13,4,98,14800,18,SummonerDot,SummonerFlash
+596,2020-03-26,Summoner's Rift,One for All,24.66666666666666,victory,Sett,7,7,12,124,15300,18,SummonerTeleport,SummonerFlash
+597,2020-03-26,Summoner's Rift,Ranked (Draft Mode),29.366666666666664,victory,Aphelios,9,5,12,180,12600,15,SummonerHeal,SummonerFlash
+598,2020-03-26,Summoner's Rift,Ranked (Draft Mode),29.18333333333333,victory,Caitlyn,8,3,4,162,10800,13,SummonerHeal,SummonerFlash
+599,2020-03-26,Summoner's Rift,Ranked (Draft Mode),28.05,defeat,Aphelios,3,4,7,162,10100,13,SummonerHeal,SummonerFlash
+600,2020-03-26,Summoner's Rift,Ranked (Draft Mode),3.333333333333333,earlysurrender,Aphelios,0,0,0,14,983,2,SummonerHeal,SummonerFlash
+601,2020-03-23,Summoner's Rift,Normal (Draft Mode),31.2,defeat,Caitlyn,6,4,3,211,11800,13,SummonerHeal,SummonerFlash
+602,2020-03-23,Summoner's Rift,Normal (Draft Mode),30.066666666666663,defeat,Caitlyn,4,3,7,210,10700,14,SummonerHeal,SummonerFlash
+603,2020-03-22,Summoner's Rift,Custom,36.31666666666666,defeat,Galio,2,3,4,239,11200,18,SummonerTeleport,SummonerFlash
+604,2020-03-22,Summoner's Rift,Normal (Draft Mode),16.15,victory,Irelia,4,2,1,112,6500,10,SummonerTeleport,SummonerFlash
+605,2020-03-22,Summoner's Rift,Normal (Draft Mode),31.4,defeat,Heimerdinger,6,4,8,205,12500,16,SummonerTeleport,SummonerFlash
+606,2020-03-22,Summoner's Rift,Normal (Draft Mode),33.0,defeat,Galio,2,5,14,152,10600,15,SummonerTeleport,SummonerFlash
+607,2020-03-21,Summoner's Rift,Custom,44.7,victory,Heimerdinger,8,1,12,248,15700,18,SummonerTeleport,SummonerFlash
+608,2020-03-21,Summoner's Rift,Custom,19.1,defeat,Aphelios,0,6,0,85,4500,8,SummonerHeal,SummonerFlash
+609,2020-03-21,Summoner's Rift,Custom,33.4,victory,Aphelios,4,1,5,244,12200,15,SummonerHeal,SummonerFlash
+610,2020-03-21,Summoner's Rift,Custom,29.866666666666664,victory,Aphelios,6,2,13,164,12200,15,SummonerHeal,SummonerFlash
+611,2020-03-21,Howling Abyss,Custom,17.4,victory,Taric,3,2,15,39,10400,17,SummonerExhaust,SummonerFlash
+612,2020-03-21,Summoner's Rift,Custom,21.41666666666666,defeat,Caitlyn,2,5,0,123,6100,10,SummonerHeal,SummonerFlash
+613,2020-03-21,Howling Abyss,,13.566666666666666,victory,Xayah,9,4,14,52,9700,15,SummonerHeal,SummonerFlash
+614,2020-03-21,Summoner's Rift,Ranked (Draft Mode),44.1,defeat,Aphelios,10,7,9,319,18400,18,SummonerHeal,SummonerFlash
+615,2020-03-20,Summoner's Rift,Ranked (Draft Mode),32.53333333333333,defeat,Caitlyn,10,6,9,196,13900,15,SummonerHeal,SummonerFlash
+616,2020-03-20,Summoner's Rift,Ranked (Draft Mode),22.083333333333332,victory,Lucian,8,2,5,138,8900,11,SummonerHeal,SummonerFlash
+617,2020-03-20,Summoner's Rift,Normal (Draft Mode),34.68333333333333,defeat,Miss Fortune,6,6,3,255,13500,14,SummonerHeal,SummonerFlash
+618,2020-03-20,Summoner's Rift,Normal (Draft Mode),26.25,defeat,Irelia,1,9,7,163,8100,13,SummonerTeleport,SummonerFlash
+619,2020-03-20,Summoner's Rift,Normal (Draft Mode),29.21666666666666,victory,Xerath,5,6,8,139,10100,14,SummonerBarrier,SummonerFlash
+620,2020-03-19,Summoner's Rift,Normal (Draft Mode),32.5,defeat,Nunu & Willump,3,12,11,132,9400,14,SummonerSmite,SummonerFlash
+621,2020-03-19,Howling Abyss,,23.28333333333333,victory,Xayah,7,9,19,87,14500,18,SummonerHeal,SummonerFlash
+622,2020-03-19,Summoner's Rift,Normal (Draft Mode),19.73333333333333,defeat,Caitlyn,2,4,2,104,5900,9,SummonerHeal,SummonerFlash
+623,2020-03-19,Summoner's Rift,Normal (Draft Mode),27.133333333333333,victory,Rakan,0,3,18,8,7100,13,SummonerDot,SummonerFlash
+624,2020-03-19,Summoner's Rift,Normal (Draft Mode),20.833333333333332,victory,Caitlyn,4,2,11,118,8000,11,SummonerHeal,SummonerFlash
+625,2020-03-19,Summoner's Rift,Normal (Draft Mode),28.28333333333333,defeat,Irelia,1,7,3,152,8300,14,SummonerTeleport,SummonerFlash
+626,2020-03-18,Summoner's Rift,Normal (Draft Mode),27.833333333333332,defeat,Irelia,3,9,1,188,9100,14,SummonerTeleport,SummonerFlash
+627,2020-03-16,Summoner's Rift,Normal (Draft Mode),22.96666666666666,victory,Aphelios,9,2,6,162,10700,12,SummonerHeal,SummonerFlash
+628,2020-03-16,Summoner's Rift,Normal (Draft Mode),20.6,defeat,Morgana,0,9,9,13,4700,10,SummonerDot,SummonerFlash
+629,2020-03-16,Summoner's Rift,Normal (Draft Mode),28.95,victory,Amumu,4,7,9,105,8700,13,SummonerSmite,SummonerFlash
+630,2020-03-16,Summoner's Rift,Normal (Draft Mode),26.26666666666666,defeat,Nunu & Willump,5,6,7,139,9700,13,SummonerSmite,SummonerFlash
+631,2020-03-15,Summoner's Rift,Normal (Draft Mode),37.8,defeat,Ezreal,9,14,12,140,13100,17,SummonerHeal,SummonerFlash
+632,2020-03-15,Summoner's Rift,Normal (Draft Mode),24.2,victory,Caitlyn,3,1,2,179,8900,12,SummonerHeal,SummonerFlash
+633,2020-03-15,Summoner's Rift,Normal (Draft Mode),31.21666666666666,victory,Veigar,6,13,13,134,10300,16,SummonerTeleport,SummonerFlash
+634,2020-03-15,Summoner's Rift,Custom,26.55,victory,Irelia,8,5,9,169,12100,17,SummonerDot,SummonerFlash
+635,2020-03-15,Summoner's Rift,Normal (Draft Mode),39.4,defeat,Aphelios,3,10,9,174,12200,16,SummonerHeal,SummonerFlash
+636,2020-03-14,Summoner's Rift,Normal (Draft Mode),34.85,victory,Xayah,8,6,12,260,15300,18,SummonerHeal,SummonerFlash
+637,2020-03-14,Summoner's Rift,Normal (Draft Mode),30.73333333333333,defeat,Aphelios,4,4,3,194,10800,14,SummonerHeal,SummonerFlash
+638,2020-03-14,Summoner's Rift,Normal (Draft Mode),15.516666666666666,victory,Caitlyn,5,0,3,110,7200,10,SummonerHeal,SummonerFlash
+639,2020-03-14,Howling Abyss,,14.83333333333333,victory,Kai'Sa,11,6,27,59,12000,16,SummonerHeal,SummonerFlash
+640,2020-03-10,Howling Abyss,,15.716666666666665,victory,Sivir,14,6,21,70,12500,16,SummonerHeal,SummonerFlash
+641,2020-03-08,Summoner's Rift,Normal (Draft Mode),39.08333333333332,victory,Xayah,6,7,10,267,14700,17,SummonerHeal,SummonerFlash
+642,2020-03-08,Summoner's Rift,Normal (Draft Mode),28.26666666666666,victory,Morgana,4,5,22,22,8900,15,SummonerDot,SummonerFlash
+643,2020-03-08,Summoner's Rift,Normal (Draft Mode),15.533333333333331,defeat,Nunu & Willump,0,6,1,62,3800,7,SummonerSmite,SummonerFlash
+644,2020-03-08,Summoner's Rift,Normal (Draft Mode),15.6,defeat,Irelia,0,4,0,37,2900,6,SummonerTeleport,SummonerFlash
+645,2020-03-07,Summoner's Rift,Normal (Draft Mode),31.383333333333333,victory,Irelia,6,8,14,165,13000,17,SummonerTeleport,SummonerFlash
+646,2020-03-07,Summoner's Rift,Normal (Draft Mode),24.583333333333332,defeat,Irelia,2,9,1,144,7100,12,SummonerDot,SummonerFlash
+647,2020-03-07,Summoner's Rift,Normal (Draft Mode),22.95,victory,Xerath,6,2,15,40,8200,13,SummonerDot,SummonerFlash
+648,2020-03-07,Summoner's Rift,Normal (Draft Mode),20.9,defeat,Kayn,4,5,4,89,7600,11,SummonerSmite,SummonerFlash
+649,2020-03-05,Summoner's Rift,Normal (Draft Mode),33.13333333333333,victory,Irelia,12,7,12,202,15000,17,SummonerDot,SummonerFlash
+650,2020-03-04,Summoner's Rift,Normal (Draft Mode),31.43333333333333,victory,Irelia,11,12,12,131,13400,16,SummonerDot,SummonerFlash
+651,2020-03-04,Summoner's Rift,Normal (Draft Mode),38.08333333333332,defeat,Caitlyn,5,12,12,200,13300,16,SummonerHeal,SummonerFlash
+652,2020-03-03,Summoner's Rift,Normal (Draft Mode),28.65,victory,Irelia,4,6,18,206,13300,15,SummonerTeleport,SummonerFlash
+653,2020-03-01,Summoner's Rift,Normal (Draft Mode),30.9,victory,Irelia,17,4,14,189,16300,17,SummonerTeleport,SummonerFlash
+654,2020-03-01,Summoner's Rift,Normal (Draft Mode),34.9,victory,Aphelios,12,6,10,212,15300,16,SummonerHeal,SummonerFlash
+655,2020-03-01,Howling Abyss,,25.083333333333332,defeat,Xayah,23,10,17,136,19200,18,SummonerHeal,SummonerFlash
+656,2020-03-01,Summoner's Rift,Normal (Draft Mode),15.383333333333331,defeat,Aphelios,2,3,1,71,4300,9,SummonerHeal,SummonerFlash
+657,2020-03-01,Summoner's Rift,Normal (Draft Mode),33.33333333333333,defeat,Aphelios,7,6,8,193,12700,16,SummonerHeal,SummonerFlash
+658,2020-03-01,Summoner's Rift,Normal (Draft Mode),42.8,defeat,Aphelios,4,7,18,282,16000,18,SummonerHeal,SummonerFlash
+659,2020-03-01,Howling Abyss,,21.25,victory,Sivir,7,10,35,100,14000,18,SummonerHeal,SummonerFlash
+660,2020-02-29,Howling Abyss,,27.75,victory,Galio,3,11,29,86,15300,18,SummonerSnowball,SummonerFlash
+661,2020-02-29,Summoner's Rift,Normal (Draft Mode),32.68333333333333,victory,Lucian,6,3,13,173,12200,15,SummonerHeal,SummonerFlash
+662,2020-02-29,Howling Abyss,,15.816666666666666,victory,Ziggs,7,7,23,25,10700,15,SummonerHeal,SummonerFlash
+663,2020-02-29,Summoner's Rift,Normal (Draft Mode),24.55,defeat,Caitlyn,0,5,3,138,6200,11,SummonerHeal,SummonerFlash
+664,2020-02-29,Summoner's Rift,Normal (Draft Mode),41.46666666666666,victory,Aphelios,17,7,10,269,19600,17,SummonerHeal,SummonerFlash
+665,2020-02-29,Howling Abyss,,28.66666666666666,victory,Jinx,18,15,19,142,20500,18,SummonerHeal,SummonerFlash
+666,2020-02-29,Summoner's Rift,Normal (Draft Mode),32.28333333333333,defeat,Ezreal,3,5,5,177,10800,14,SummonerHeal,SummonerFlash
+667,2020-02-27,Summoner's Rift,Normal (Draft Mode),23.333333333333332,defeat,Miss Fortune,0,3,2,146,6900,11,SummonerHeal,SummonerFlash
+668,2020-02-27,Summoner's Rift,Normal (Draft Mode),19.083333333333332,defeat,Aphelios,0,4,3,112,5300,9,SummonerHeal,SummonerFlash
+669,2020-02-27,Summoner's Rift,Normal (Draft Mode),25.68333333333333,victory,Aphelios,4,1,16,181,10600,13,SummonerHeal,SummonerFlash
+670,2020-02-26,Summoner's Rift,Normal (Draft Mode),38.0,defeat,Sett,4,12,8,66,11100,16,SummonerDot,SummonerFlash
+671,2020-02-26,Summoner's Rift,Normal (Draft Mode),24.633333333333333,defeat,Irelia,5,8,7,110,8800,12,SummonerTeleport,SummonerFlash
+672,2020-02-26,Summoner's Rift,Normal (Draft Mode),33.916666666666664,victory,Aphelios,5,5,6,194,11800,16,SummonerHeal,SummonerFlash
+673,2020-02-26,Summoner's Rift,Normal (Draft Mode),30.46666666666666,victory,Xayah,10,2,14,181,13800,16,SummonerHeal,SummonerFlash
+674,2020-02-26,Summoner's Rift,Normal (Draft Mode),48.5,defeat,Aphelios,21,7,13,301,22600,18,SummonerHeal,SummonerFlash
+675,2020-02-26,Summoner's Rift,Normal (Draft Mode),22.21666666666666,victory,Thresh,2,4,8,31,5800,10,SummonerDot,SummonerFlash
+676,2020-02-26,Summoner's Rift,Normal (Draft Mode),19.633333333333333,victory,Caitlyn,8,3,7,98,8100,11,SummonerHeal,SummonerFlash
+677,2020-02-26,Howling Abyss,,24.75,defeat,Camille,3,11,21,22,12600,18,SummonerSnowball,SummonerFlash
+678,2020-02-26,Howling Abyss,,25.93333333333333,victory,Ahri,13,11,30,67,16900,18,SummonerMana,SummonerFlash
+679,2020-02-26,Howling Abyss,,17.28333333333333,victory,Aphelios,9,6,19,76,11800,17,SummonerHeal,SummonerFlash
+680,2020-02-25,Howling Abyss,,18.05,defeat,Irelia,5,12,15,54,10400,16,SummonerSnowball,SummonerFlash
+681,2020-02-25,Summoner's Rift,Normal (Draft Mode),31.55,defeat,Caitlyn,2,8,9,167,9400,14,SummonerHeal,SummonerFlash
+682,2020-02-25,Summoner's Rift,Normal (Draft Mode),22.766666666666662,victory,Aphelios,14,2,7,134,10800,13,SummonerHeal,SummonerFlash
+683,2020-02-25,Summoner's Rift,Normal (Draft Mode),26.516666666666662,victory,Aphelios,6,4,11,173,11100,13,SummonerHeal,SummonerFlash
+684,2020-02-25,Summoner's Rift,Normal (Draft Mode),23.2,victory,Ezreal,5,3,5,120,8900,11,SummonerHeal,SummonerFlash
+685,2020-02-25,Howling Abyss,,18.68333333333333,victory,Varus,9,7,26,36,12100,18,SummonerHeal,SummonerFlash
+686,2020-02-25,Howling Abyss,,18.333333333333332,victory,Irelia,6,9,19,71,11600,17,SummonerSnowball,SummonerFlash
+687,2020-02-25,Summoner's Rift,Normal (Draft Mode),39.95,defeat,Aphelios,5,12,3,214,13200,16,SummonerHeal,SummonerFlash
+688,2020-02-25,Summoner's Rift,Normal (Draft Mode),36.56666666666666,defeat,Irelia,9,11,14,221,14800,16,SummonerTeleport,SummonerFlash
+689,2020-02-25,Summoner's Rift,Normal (Draft Mode),29.43333333333333,victory,Irelia,2,5,5,201,10200,15,SummonerTeleport,SummonerFlash
+690,2020-02-25,Summoner's Rift,Normal (Draft Mode),32.75,victory,Caitlyn,9,7,8,175,13400,14,SummonerHeal,SummonerFlash
+691,2020-02-25,Summoner's Rift,Normal (Draft Mode),30.55,victory,Aphelios,14,4,8,189,15000,15,SummonerHeal,SummonerFlash
+692,2020-02-25,Summoner's Rift,Normal (Draft Mode),40.08333333333332,defeat,Caitlyn,4,8,14,205,13000,17,SummonerHeal,SummonerFlash
+693,2020-02-25,Summoner's Rift,Normal (Draft Mode),26.95,defeat,Ezreal,2,7,2,132,7400,11,SummonerHeal,SummonerFlash
+694,2020-02-25,Summoner's Rift,Normal (Draft Mode),24.06666666666666,victory,Ezreal,12,3,8,116,10800,13,SummonerHeal,SummonerFlash
+695,2020-02-25,Howling Abyss,,17.95,defeat,Morgana,5,8,20,21,10100,15,SummonerMana,SummonerFlash
+696,2020-02-24,Howling Abyss,,17.666666666666664,victory,Caitlyn,18,7,10,89,14900,16,SummonerHeal,SummonerFlash
+697,2020-02-24,Summoner's Rift,Normal (Draft Mode),28.75,defeat,Caitlyn,8,6,10,203,12400,13,SummonerHeal,SummonerFlash
+698,2020-02-24,Summoner's Rift,Normal (Draft Mode),27.083333333333332,victory,Caitlyn,6,2,11,198,12400,15,SummonerHeal,SummonerFlash
+699,2020-02-24,Summoner's Rift,Normal (Draft Mode),33.15,victory,Aphelios,10,7,12,150,13700,15,SummonerHeal,SummonerFlash
+700,2020-02-24,Summoner's Rift,Normal (Draft Mode),26.16666666666666,victory,Aphelios,6,0,8,186,10700,14,SummonerHeal,SummonerFlash
+701,2020-02-24,Summoner's Rift,Normal (Draft Mode),22.16666666666666,victory,Ezreal,3,3,12,105,8000,12,SummonerHeal,SummonerFlash
+702,2020-02-24,Summoner's Rift,Normal (Draft Mode),3.2333333333333334,earlysurrender,Ezreal,0,0,0,15,971,2,SummonerHeal,SummonerFlash
+703,2020-02-24,Howling Abyss,,24.11666666666666,victory,Singed,3,16,34,50,13200,18,SummonerHaste,SummonerFlash
+704,2020-02-24,Howling Abyss,,20.91666666666666,defeat,Akali,5,11,13,51,11500,17,SummonerSnowball,SummonerFlash
+705,2020-02-24,Howling Abyss,,23.73333333333333,defeat,Fiddlesticks,8,14,15,62,13400,18,SummonerMana,SummonerFlash
+706,2020-02-24,Howling Abyss,,32.75,victory,Thresh,10,11,33,41,19300,18,SummonerMana,SummonerFlash
+707,2020-02-24,Howling Abyss,,14.98333333333333,victory,Ziggs,8,5,37,51,10800,16,SummonerMana,SummonerFlash
+708,2020-02-23,Howling Abyss,,28.833333333333332,defeat,Irelia,10,13,15,153,18900,18,SummonerHeal,SummonerFlash
+709,2020-02-23,Howling Abyss,,9.683333333333332,victory,Miss Fortune,7,2,23,32,7600,12,SummonerHeal,SummonerFlash
+710,2020-02-23,Howling Abyss,,20.083333333333332,victory,Lucian,10,6,14,82,14000,18,SummonerHeal,SummonerFlash
+711,2020-02-21,Howling Abyss,,27.23333333333333,defeat,Heimerdinger,9,10,22,127,16800,18,SummonerMana,SummonerFlash
+712,2020-02-16,Summoner's Rift,,14.8,victory,Irelia,3,3,3,15,7900,7,SummonerBoost,SummonerFlash
+713,2020-02-16,Summoner's Rift,,19.68333333333333,defeat,Xayah,8,11,20,91,16000,16,SummonerBoost,SummonerFlash
+714,2020-02-15,Summoner's Rift,,14.616666666666665,victory,Kai'Sa,27,8,10,89,19100,15,SummonerBoost,SummonerFlash
+715,2020-02-15,Summoner's Rift,,17.516666666666666,defeat,Garen,1,15,2,54,9400,13,SummonerBoost,SummonerFlash
+716,2020-02-15,Summoner's Rift,,21.016666666666662,victory,Malphite,17,10,12,90,18900,19,SummonerBoost,SummonerFlash
+717,2020-02-10,Summoner's Rift,,22.96666666666666,defeat,Xayah,9,11,8,129,17300,21,SummonerBoost,SummonerFlash
+718,2020-02-10,Summoner's Rift,Normal (Draft Mode),32.0,defeat,Irelia,7,9,6,181,12600,14,SummonerTeleport,SummonerFlash
+719,2020-02-10,Summoner's Rift,Normal (Draft Mode),26.06666666666666,victory,Ezreal,10,3,6,172,11500,13,SummonerHeal,SummonerFlash
+720,2020-02-10,Summoner's Rift,,18.23333333333333,defeat,Warwick,17,13,8,79,16700,14,SummonerBoost,SummonerFlash
+721,2020-02-10,Summoner's Rift,,14.116666666666665,defeat,Thresh,0,11,14,28,7000,10,SummonerBoost,SummonerFlash
+722,2020-02-10,Summoner's Rift,,17.166666666666664,victory,Akali,16,12,9,83,17800,16,SummonerBoost,SummonerFlash
+723,2020-02-09,Summoner's Rift,,20.383333333333333,victory,Malphite,8,15,19,49,14300,17,SummonerBoost,SummonerFlash
+724,2020-02-09,Summoner's Rift,,14.816666666666666,victory,Neeko,8,6,13,76,13400,13,SummonerBoost,SummonerFlash
+725,2020-02-09,Summoner's Rift,Normal (Draft Mode),30.55,defeat,Caitlyn,2,4,1,184,9500,13,SummonerHeal,SummonerFlash
+726,2020-02-09,Summoner's Rift,Normal (Draft Mode),27.133333333333333,victory,Ezreal,4,2,9,141,9700,14,SummonerHeal,SummonerFlash
+727,2020-02-09,Summoner's Rift,,11.666666666666666,defeat,Zoe,4,5,1,39,7200,10,SummonerBoost,SummonerFlash
+728,2020-02-07,Summoner's Rift,,16.833333333333332,victory,Caitlyn,15,7,8,71,15300,16,SummonerBoost,SummonerFlash
+729,2020-02-06,Summoner's Rift,,25.93333333333333,defeat,Irelia,16,13,5,150,22600,21,SummonerBoost,SummonerFlash
+730,2020-02-06,Summoner's Rift,,25.48333333333333,victory,Caitlyn,21,10,16,151,26800,23,SummonerBoost,SummonerFlash
+731,2020-02-06,Summoner's Rift,,20.48333333333333,victory,Irelia,17,7,9,150,18900,17,SummonerBoost,SummonerFlash
+732,2020-02-06,Summoner's Rift,Normal (Draft Mode),28.616666666666664,defeat,Aphelios,1,7,5,158,8400,13,SummonerHeal,SummonerFlash
+733,2020-02-06,Summoner's Rift,Normal (Draft Mode),21.45,defeat,Aphelios,5,6,6,139,9000,11,SummonerHeal,SummonerFlash
+734,2020-02-05,Summoner's Rift,Custom,37.15,defeat,Thresh,4,7,19,46,9600,16,SummonerDot,SummonerFlash
+735,2020-02-05,Howling Abyss,Custom,16.316666666666666,victory,Ryze,9,3,8,68,11600,16,SummonerSnowball,SummonerFlash
+736,2020-02-05,Howling Abyss,Custom,8.65,victory,Aphelios,6,1,18,26,7300,11,SummonerHeal,SummonerFlash
+737,2020-02-05,Summoner's Rift,Custom,43.766666666666666,victory,Caitlyn,9,5,21,218,16100,18,SummonerHeal,SummonerFlash
+738,2020-02-05,Summoner's Rift,,19.16666666666666,victory,Orianna,5,17,19,100,14400,18,SummonerBoost,SummonerFlash
+739,2020-02-05,Summoner's Rift,,26.45,victory,Xerath,11,18,16,133,22100,22,SummonerBoost,SummonerFlash
+740,2020-02-04,Summoner's Rift,,14.433333333333332,defeat,Ezreal,5,11,12,58,10700,12,SummonerBoost,SummonerFlash
+741,2020-02-04,Summoner's Rift,Normal (Draft Mode),40.05,victory,Aphelios,8,7,16,207,14600,16,SummonerHeal,SummonerFlash
+742,2020-02-04,Summoner's Rift,,23.016666666666662,victory,Sona,10,6,21,106,18100,18,SummonerBoost,SummonerFlash
+743,2020-02-04,Summoner's Rift,,17.5,victory,Xayah,18,7,6,122,17600,16,SummonerBoost,SummonerFlash
+744,2020-02-02,Summoner's Rift,,11.716666666666665,victory,Amumu,4,4,12,45,9200,11,SummonerBoost,SummonerFlash
+745,2020-02-02,Summoner's Rift,,19.1,victory,Amumu,13,11,17,49,15800,19,SummonerBoost,SummonerFlash
+746,2020-02-02,Summoner's Rift,,8.95,defeat,Irelia,4,9,2,29,5800,7,SummonerBoost,SummonerFlash
+747,2020-02-02,Summoner's Rift,,15.683333333333332,defeat,Thresh,10,9,8,52,13400,13,SummonerBoost,SummonerFlash
+748,2020-02-02,Summoner's Rift,,15.366666666666665,victory,Heimerdinger,8,4,19,89,13300,13,SummonerBoost,SummonerFlash
+749,2020-02-01,Summoner's Rift,,22.2,defeat,Lucian,4,13,10,159,17300,18,SummonerBoost,SummonerFlash
+750,2020-02-01,Summoner's Rift,,20.083333333333332,defeat,Morgana,4,12,10,65,12900,16,SummonerBoost,SummonerFlash
+751,2020-01-31,Summoner's Rift,,18.1,victory,Ezreal,6,8,15,110,15400,17,SummonerBoost,SummonerFlash
+752,2020-01-29,Summoner's Rift,,18.9,victory,Miss Fortune,8,7,8,100,14800,15,SummonerBoost,SummonerFlash
+753,2020-01-29,Summoner's Rift,,16.083333333333332,defeat,Fiddlesticks,10,13,11,74,12700,13,SummonerBoost,SummonerFlash
+754,2020-01-28,Summoner's Rift,,28.133333333333333,defeat,Sett,7,10,18,96,18700,22,SummonerBoost,SummonerFlash
+755,2020-01-27,Summoner's Rift,,12.5,defeat,Xerath,0,3,0,53,6700,10,SummonerBoost,SummonerFlash
+756,2020-01-26,Summoner's Rift,Normal (Draft Mode),3.35,earlysurrender,Lucian,0,0,0,9,901,2,SummonerHeal,SummonerFlash
+757,2020-01-26,Summoner's Rift,Normal (Draft Mode),20.03333333333333,defeat,Xayah,2,5,4,76,5700,10,SummonerHeal,SummonerFlash
+758,2020-01-26,Summoner's Rift,,21.516666666666662,defeat,Morgana,7,9,20,93,15400,18,SummonerBoost,SummonerFlash
+759,2020-01-25,Summoner's Rift,Normal (Draft Mode),29.116666666666664,victory,Caitlyn,5,4,10,135,10700,13,SummonerHeal,SummonerFlash
+760,2020-01-25,Summoner's Rift,,21.9,defeat,Kai'Sa,9,13,12,120,17400,19,SummonerBoost,SummonerFlash
+761,2020-01-25,Summoner's Rift,Normal (Draft Mode),24.633333333333333,victory,Caitlyn,5,1,8,170,10200,13,SummonerHeal,SummonerFlash
+762,2020-01-24,Summoner's Rift,Normal (Draft Mode),26.35,victory,Caitlyn,7,2,11,144,10700,12,SummonerHeal,SummonerFlash
+763,2020-01-24,Summoner's Rift,,19.03333333333333,victory,Akali,23,11,13,110,20100,19,SummonerBoost,SummonerFlash
+764,2020-01-24,Summoner's Rift,,18.55,victory,Caitlyn,11,10,12,93,15600,18,SummonerBoost,SummonerFlash
+765,2020-01-24,Summoner's Rift,,17.55,victory,Ahri,8,5,8,93,13700,15,SummonerBoost,SummonerFlash
+766,2020-01-23,Summoner's Rift,,16.15,victory,Tristana,8,12,6,72,13400,14,SummonerBoost,SummonerFlash
+767,2020-01-23,Summoner's Rift,,21.0,victory,Caitlyn,18,7,10,119,20600,19,SummonerBoost,SummonerFlash
+768,2020-01-23,Summoner's Rift,,17.28333333333333,victory,Pyke,5,10,6,33,11300,14,SummonerBoost,SummonerFlash
+769,2020-01-23,Summoner's Rift,,19.8,defeat,Annie,9,12,6,81,13400,16,SummonerBoost,SummonerFlash
+770,2020-01-23,Summoner's Rift,,16.266666666666666,defeat,Taliyah,11,8,6,62,13600,14,SummonerBoost,SummonerFlash
+771,2020-01-22,Summoner's Rift,,15.633333333333331,defeat,Thresh,4,12,9,29,10400,12,SummonerBoost,SummonerFlash
+772,2020-01-22,Summoner's Rift,Normal (Draft Mode),32.483333333333334,defeat,Caitlyn,7,6,17,185,12700,15,SummonerHeal,SummonerFlash
+773,2020-01-22,Summoner's Rift,,24.583333333333332,victory,Zilean,7,12,17,80,16800,21,SummonerBoost,SummonerFlash
+774,2020-01-22,Summoner's Rift,,15.23333333333333,victory,Ryze,1,3,7,100,10600,13,SummonerBoost,SummonerFlash
+775,2020-01-22,Summoner's Rift,,18.383333333333333,defeat,Thresh,4,16,25,44,13000,16,SummonerDot,SummonerFlash
+776,2020-01-20,Summoner's Rift,Normal (Draft Mode),30.333333333333332,defeat,Ezreal,8,7,4,142,11300,12,SummonerHeal,SummonerFlash
+777,2020-01-20,Summoner's Rift,,27.133333333333333,defeat,Xerath,14,9,29,99,21400,21,SummonerBoost,SummonerFlash
+778,2020-01-20,Summoner's Rift,Normal (Draft Mode),30.583333333333332,defeat,Xayah,14,6,8,161,13000,14,SummonerHeal,SummonerFlash
+779,2020-01-20,Summoner's Rift,Normal (Draft Mode),26.96666666666666,victory,Nunu & Willump,2,4,8,133,8500,13,SummonerSmite,SummonerFlash
+780,2020-01-20,Summoner's Rift,,17.566666666666666,defeat,Jax,8,12,10,61,13700,16,SummonerBoost,SummonerFlash
+781,2020-01-20,Summoner's Rift,,20.68333333333333,defeat,Morgana,9,6,16,115,17200,18,SummonerBoost,SummonerFlash
+782,2020-01-19,Summoner's Rift,,16.833333333333332,victory,Morgana,11,8,18,55,14500,16,SummonerBoost,SummonerFlash
+783,2020-01-19,Summoner's Rift,,20.68333333333333,victory,Irelia,13,11,11,58,16400,19,SummonerBoost,SummonerFlash
+784,2020-01-19,Summoner's Rift,,21.23333333333333,defeat,Soraka,3,12,26,57,14800,16,SummonerBoost,SummonerFlash
+785,2020-01-19,Summoner's Rift,Ranked (Draft Mode),27.566666666666663,victory,Aphelios,8,4,8,162,11700,14,SummonerHeal,SummonerFlash
+786,2020-01-19,Summoner's Rift,,21.73333333333333,victory,Veigar,13,7,13,101,18300,20,SummonerBoost,SummonerFlash
+787,2020-01-19,Summoner's Rift,Normal (Draft Mode),22.95,defeat,Blitzcrank,2,10,8,36,6600,10,SummonerDot,SummonerFlash
+788,2020-01-19,Summoner's Rift,Normal (Draft Mode),36.21666666666666,victory,Garen,8,10,9,124,13200,16,SummonerTeleport,SummonerFlash
+789,2020-01-18,Summoner's Rift,Normal (Draft Mode),34.18333333333333,victory,Caitlyn,6,11,19,156,12900,16,SummonerTeleport,SummonerFlash
+790,2020-01-18,Summoner's Rift,Normal (Draft Mode),29.55,defeat,Miss Fortune,4,8,4,145,9600,13,SummonerHeal,SummonerFlash
+791,2020-01-18,Summoner's Rift,Normal (Draft Mode),27.96666666666666,victory,Xayah,6,5,15,158,12000,14,SummonerHeal,SummonerFlash
+792,2020-01-18,Summoner's Rift,,23.46666666666666,defeat,Brand,3,14,13,96,15000,20,SummonerDot,SummonerFlash
+793,2020-01-18,Summoner's Rift,,18.93333333333333,victory,Ezreal,8,8,5,83,13700,16,SummonerBarrier,SummonerFlash
+794,2020-01-16,Summoner's Rift,,23.28333333333333,defeat,Thresh,17,18,13,53,19300,18,SummonerDot,SummonerFlash
+795,2020-01-16,Summoner's Rift,,17.1,victory,Kai'Sa,12,8,12,55,15300,15,SummonerHeal,SummonerFlash
+796,2020-01-16,Summoner's Rift,,17.116666666666667,victory,Morgana,16,2,15,65,14400,15,SummonerDot,SummonerFlash
+797,2020-01-16,Summoner's Rift,,27.36666666666666,defeat,Lucian,16,18,14,146,23600,22,SummonerHeal,SummonerFlash
+798,2020-01-16,Summoner's Rift,,17.28333333333333,defeat,Annie,4,10,2,59,10100,13,SummonerDot,SummonerFlash
+799,2020-01-16,Summoner's Rift,,17.066666666666666,defeat,Darius,8,14,14,57,13800,15,SummonerHaste,SummonerFlash
+800,2020-01-16,Summoner's Rift,,18.75,victory,Tristana,9,11,9,93,14800,17,SummonerHeal,SummonerFlash
+801,2020-01-16,Summoner's Rift,,20.616666666666664,victory,Xayah,19,10,10,138,21700,19,SummonerHeal,SummonerFlash
+802,2020-01-15,Summoner's Rift,,16.116666666666667,victory,Ashe,8,13,16,51,13400,16,SummonerHeal,SummonerFlash
+803,2020-01-15,Summoner's Rift,,24.25,defeat,Fiddlesticks,17,10,17,112,19600,21,SummonerHeal,SummonerFlash
+804,2020-01-15,Summoner's Rift,,24.48333333333333,defeat,Miss Fortune,11,16,18,113,21100,20,SummonerHeal,SummonerFlash
+805,2020-01-15,Summoner's Rift,,28.216666666666658,victory,Morgana,20,10,17,111,23300,23,SummonerDot,SummonerFlash
+806,2020-01-15,Summoner's Rift,,24.66666666666666,victory,Caitlyn,11,16,14,101,19000,21,SummonerDot,SummonerFlash
+807,2020-01-15,Summoner's Rift,,21.18333333333333,victory,Irelia,6,7,6,123,14900,17,SummonerDot,SummonerFlash
+808,2020-01-15,Summoner's Rift,,18.266666666666662,victory,Tristana,9,8,6,114,14400,15,SummonerDot,SummonerFlash
+809,2020-01-11,Howling Abyss,,25.383333333333333,defeat,Singed,11,13,28,54,15400,18,SummonerHeal,SummonerFlash
+810,2020-01-11,Howling Abyss,,19.91666666666666,defeat,Ezreal,5,6,12,76,11700,18,SummonerHeal,SummonerFlash
+811,2020-01-11,Summoner's Rift,Normal (Draft Mode),22.16666666666666,defeat,Caitlyn,2,8,2,111,6700,12,SummonerDot,SummonerFlash
+812,2020-01-11,Summoner's Rift,Normal (Draft Mode),21.93333333333333,victory,Rakan,1,3,15,10,7000,12,SummonerDot,SummonerFlash
+813,2020-01-10,Summoner's Rift,Ranked (Draft Mode),36.85,defeat,Lucian,9,6,12,197,14200,15,SummonerHeal,SummonerFlash
+814,2020-01-10,Summoner's Rift,Ranked (Draft Mode),28.3,victory,Aphelios,2,8,19,139,10100,14,SummonerHeal,SummonerFlash
+815,2020-01-09,Summoner's Rift,Normal (Draft Mode),34.983333333333334,defeat,Irelia,11,8,7,212,15900,16,SummonerTeleport,SummonerFlash
+816,2020-01-09,Summoner's Rift,Normal (Draft Mode),18.96666666666666,defeat,Ezreal,1,4,2,96,5000,9,SummonerHeal,SummonerFlash
