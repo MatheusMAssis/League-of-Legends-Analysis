@@ -3,7 +3,9 @@
 ### Dashboard Results
 ![Final Dashboard](img/dashboard.png)
 
-## Medium Story about the creation of this project
+## Medium
+I wrote about the creation of this project on my Medium account. Check out for some coding adventures!
+
 * [**Medium**](#)
 
 ## About
